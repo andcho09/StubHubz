@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+	<title>StubHubz</title>
+	<meta charset='utf-8'/>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js'></script>
+	<script src='https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js'></script>
+	<script src='https://cdn.datatables.net/plug-ins/1.10.19/sorting/datetime-moment.js'></script>
+	<script src='/chartjs-plugin-downsample.js'></script>
+	<script src='/stubhubz.js'></script>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.css">
+	<link rel="stylesheet" type="text/css" href="stubhubz.css">
+</head>
+<body>
+	<div style='width:90%; margin: auto'>
+		<h2>Select an event to chart</h2>
+		<table id='eventsTable' class='display' width='100%'></table>
+	</div>
+	<div style='width:90%; margin: auto'>
+		<h2>Chart</h2>
+		<canvas id='canvas'></canvas>
+	</div>
+	<script>
+		var eventArray;
+		var priceHistoryData;
+
+		window.chartColors = [
+			'rgb(255, 99, 132)', //red
+			'rgb(255, 159, 64)', //orange
+			'rgb(255, 205, 86)', //yellow
+			'rgb(75, 192, 192)', //teal
+			'rgb(54, 162, 235)', //sky
+			'rgb(77, 204, 77)', //green
+			'rgb(153, 102, 255)', //purple
+			'rgb(0, 51, 204)', //blue
+			'rgb(201, 203, 207)', //grey
+			'rgb(153, 51, 0)', //brown
+		];
+		$.fn.dataTable.moment("D MMM YYYY H:mm");
+
+		var config = {
+			type: 'line',
+			data: {
+				datasets: []
+			},
+			options: {
+				responsive: true,
+				title:{
+					display: true,
+					fontSize: 16,
+					text: ''
+				},
+				tooltips: {
+					mode: 'nearest',
+					intersect: false,
+					callbacks: {
+						footer: getTooltipFooter
+					},
+					footerFontStyle: 'normal'
+				},
+				hover: {
+					mode: 'nearest',
+					intersect: false
+				},
+				scales: {
+					xAxes: [{
+						type: 'time',
+						display: true,
+						scaleLabel: {
+							display: true,
+							labelString: 'Date'
+						},
+						ticks: {
+							major: {
+								fontStyle: 'bold',
+								fontColor: '#FF0000'
+							}
+						},
+						time: {
+							tooltipFormat: 'D MMM h:mm a',
+							minUnit: 'day'
+						}
+					}],
+					yAxes: [{
+						display: true,
+						scaleLabel: {
+							display: true,
+							labelString: 'Price'
+						}
+					}]
+				}
+			}
+		};
+
+		window.onload = function(){
+			$.ajax({
+				url: '/event',
+				dataType: 'json'
+		 	}).done(handleEventResponse);
+		};
+	</script>
+</body>
+</html>

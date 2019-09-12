@@ -1,0 +1,118 @@
+<project name="StubHubz" default="zip">
+
+	<include file="../commontools/Ant/ant-tasks.xml"/>
+
+	<target name="zip">
+		<delete file="StubHubz.zip"/>
+		<zip destfile="StubHubz.zip">
+			<zipfileset dir=".">
+				<include name="*.py"/>
+				<!--<include name="botocore/**"/>--> <!-- this is included already by AWS -->
+				<include name="certifi/**"/>
+				<include name="chardet/**"/>
+				<!--<include name="dateutil/**"/> -->  <!-- this is included already by AWS -->
+				<!--<include name="docutils/**"/>--> <!-- this is included already by AWS -->
+				<include name="idna/**"/>
+				<!--<include name="jmespath/**"/>--> <!-- this is included already by AWS -->
+				<include name="pynamodb/**"/>
+				<include name="requests/**"/>
+				<include name="stubhubz/**"/>
+				<include name="urllib3/**"/>
+				<exclude name="stubhubzcli.py"/>
+			</zipfileset>
+		</zip>
+
+		<delete dir="web-s3-dist" failonerror="false"/>
+		<mkdir dir="web-s3-dist"/>
+		<copy todir="web-s3-dist">
+			<fileset dir="web">
+				<exclude name="chartjs-plugin-downsample.js"/>
+				<exclude name="favicon.ico"/>
+				<exclude name="stubhubz.js"/>
+			</fileset>
+		</copy>
+		<gzip src="web/favicon.ico" destfile="web-s3-dist/favicon.ico"/>
+		<yui-compress in="web/chartjs-plugin-downsample.js" out="web-s3-dist/chartjs-plugin-downsample.js"/>
+		<yui-compress in="web/stubhubz.js" out="web-s3-dist/stubhubz.js"/>
+	</target>
+
+	<target name="backup-aws">
+		<delete dir="aws" failonerror="false">
+			<include name="apigateway/*"/>
+			<include name="cloudfront/*"/>
+			<include name="lambda/*"/>
+			<include name="sns/*"/>
+		</delete>
+		<mkdir dir="aws/apigateway"/>
+		<mkdir dir="aws/cloudfront"/>
+		<mkdir dir="aws/lambda"/>
+		<mkdir dir="aws/sns"/>
+		<property name="apigateway.restapi.id" value="3heanz9mi8"/>
+		<property name="apigateway.event.id" value="nlibdy"/>
+		<property name="apigateway.stage.name" value="BETA"/>
+		<property name="cloudfront.distribution.id" value="E1WULP9QQY98L2"/>
+
+		<exec executable="aws" output="aws/cloudfront/distribution-config.json">
+			<arg line="cloudfront get-distribution-config --id ${cloudfront.distribution.id} --output json"/>
+		</exec>
+
+		<exec executable="aws" outputproperty="ignored">
+			<arg line="apigateway get-export --output json --rest-api-id ${apigateway.restapi.id} --stage-name ${apigateway.stage.name} --export-type oas30 aws/apigateway/export.json"/>
+		</exec>
+		<exec executable="aws" output="aws/apigateway/stages.json">
+			<arg line="apigateway get-stages --output json --rest-api-id ${apigateway.restapi.id}"/>
+		</exec>
+		<exec executable="aws" output="aws/apigateway/resources.json">
+			<arg line="apigateway get-resources --output json --rest-api-id ${apigateway.restapi.id}"/>
+		</exec>
+		<exec executable="aws" output="aws/apigateway/models.json">
+			<arg line="apigateway get-models --output json --rest-api-id ${apigateway.restapi.id}"/>
+		</exec>
+		<exec executable="aws" output="aws/apigateway/method.json">
+			<arg line="apigateway get-method --output json --rest-api-id ${apigateway.restapi.id} --resource-id ${apigateway.event.id} --http-method GET"/>
+		</exec>
+		<exec executable="aws" output="aws/apigateway/method-response.json">
+			<arg line="apigateway get-method-response --output json --rest-api-id ${apigateway.restapi.id} --resource-id ${apigateway.event.id} --http-method GET --status-code 200"/>
+		</exec>
+		<exec executable="aws" output="aws/apigateway/integration.json">
+			<arg line="apigateway get-integration --output json --rest-api-id ${apigateway.restapi.id} --resource-id ${apigateway.event.id} --http-method GET"/>
+		</exec>
+		<exec executable="aws" output="aws/apigateway/integration-response.json">
+			<arg line="apigateway get-integration-response --output json --rest-api-id ${apigateway.restapi.id} --resource-id ${apigateway.event.id} --http-method GET --status-code 200"/>
+		</exec>
+
+		<exec executable="aws" output="aws/lambda/function-configuration.json">
+			<arg line="lambda get-function-configuration --output json --function-name StubHubz"/>
+		</exec>
+		<replaceregexp file="aws/lambda/function-configuration.json" byline="true" flags="i" match="STUBHUBZ_STUBHUB_PASSWORD.*" replace="STUBHUBZ_STUBHUB_PASSWORD(removed)&quot;,"/>
+		<replaceregexp file="aws/lambda/function-configuration.json" byline="true" flags="i" match="STUBHUBZ_STUBHUB_CONSUMER_KEY.*" replace="STUBHUBZ_STUBHUB_CONSUMER_KEY(removed)&quot;,"/>
+		<replaceregexp file="aws/lambda/function-configuration.json" byline="true" flags="i" match="STUBHUBZ_STUBHUB_CONSUMER_SECRET.*" replace="STUBHUBZ_STUBHUB_CONSUMER_SECRET(removed)&quot;,"/>
+
+		<exec executable="aws" output="aws/sns/topic-attributes.json">
+			<arg line="sns get-topic-attributes --output json --topic-arn arn:aws:sns:us-east-1:214602658230:StubHubzNewPriceHistory"/>
+		</exec>
+		<exec executable="aws" output="aws/sns/subscription.json">
+			<arg line="sns get-subscription-attributes --output json --subscription-arn arn:aws:sns:us-east-1:214602658230:StubHubzNewPriceHistory:c6bbd5ff-3f71-44a1-9ef1-a3552c5c6106"/>
+		</exec>
+	</target>
+
+	<target name="export-source">
+		<mkdir dir="../StubHubz_export"/>
+		<copy todir="../StubHubz_export">
+			<fileset dir=".">
+				<include name="**/.gitignore"/>
+				<include name="**/*.py"/>
+				<include name="*.ini"/>
+				<include name="*.md"/>
+				<include name="build.xml"/>
+				<include name="requirements.txt"/>
+				<include name="doc"/>
+				<include name="samples"/>
+				<include name="test"/>
+				<include name="web/**"/>
+				<exclude name="**/.git"/>
+				<exclude name="keys.ini"/>
+			</fileset>
+		</copy>
+	</target>
+</project>
