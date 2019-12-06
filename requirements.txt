@@ -1,2 +1,2 @@
-pynamodb
+pynamodb==4.*
 requests

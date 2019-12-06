@@ -1,0 +1,36 @@
+// SNS payload
+{
+    "Records": [
+        {
+            "EventSource": "aws:sns",
+            "EventVersion": "1.0",
+            "EventSubscriptionArn": "arn:aws:sns:us-east-1: 214602658230:StubHubzNewPriceHistory:c6bbd5ff-3f71-44a1-9ef1-a3552c5c6106",
+            "Sns": {
+                "Type": "Notification",
+                "MessageId": "8ac70cdd-6551-5007-8b79-5e965b369cb7",
+                "TopicArn": "arn:aws:sns:us-east-1: 214602658230:StubHubzNewPriceHistory",
+                "Subject": None,
+                "Message": "{
+                    "action": "dump_price_history",
+                "event_ids": [
+                    103072080,
+                    103034109
+                ]
+            }", "Timestamp": "2017-10-01T19: 04: 07.749Z", "SignatureVersion": "1", "Signature": "avlit2aLf3vNOPvusNqq/6LTnQQ0KHVH/HTeQ24yCNBYHjGwJAKZLapBR6ps0gXoJZlB42IfI5U+RHCdPP6TbjCvMjwBS3iJuOTAe63P5EBR4N8g+lFu6CibRDi5k69NDCJYs0fQP5jDOk6cG9iQX3+c1Z85Lu2u3Nggq+HbrAEQBYtSBOjtxK/Et7NPoVfRg39HMPAQSeYLQQxiXWiAqN/MnEdPU5dz9YpfPezwK6jcKxa7DvHYsODy1IGuDUodQgnV1E6kfQvaB4GK89zBh0xdbn77hGXjSRRhYLWYOed858pMrvEzbENR7Y/Zl7xVS7rSP93GUZSP59B2RC9qag==", "SigningCertUrl": "https: //sns.us-east-1.amazonaws.com/SimpleNotificationService-433026a4050d206028891664da859041.pem", "UnsubscribeUrl": "https://sns.us-east-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-east-1:214602658230:StubHubzNewPriceHistory:c6bbd5ff-3f71-44a1-9ef1-a3552c5c6106", "MessageAttributes": {}}}]}
+
+
+// Scrape events
+{
+    "action": "scrape"
+}
+// Scrape an event
+{
+    "action": "scrape",
+    "event_id": 103034109
+}
+
+// handle topic (new price history)
+{
+  "action": "dump_price_history",
+  "event_ids": [9852350]
+}

@@ -1,0 +1,30 @@
+// Dump price history
+{
+	"default": "{\"action\": \"dump_price_history\", \"event_ids\": [103072080, 9852350]}"
+}
+
+// SNS topic
+{  
+	'Records':[  
+	   {  
+		  'EventSource':'aws:sns',
+		  'EventVersion':'1.0',
+		  'EventSubscriptionArn':'arn:aws:sns:us-east-1:214602658230:StubHubzNewPriceHistory:c6bbd5ff-3f71-44a1-9ef1-a3552c5c6106',
+		  'Sns':{  
+			 'Type':'Notification',
+			 'MessageId':'1e728424-ab02-5627-a9f0-d66f2d160b6c',
+			 'TopicArn':'arn:aws:sns:us-east-1:214602658230:StubHubzNewPriceHistory',
+			 'Subject':None,
+			 'Message':'{"action": "dump_price_history", "event_ids": [103072080, 9852350]}',
+			 'Timestamp':'2017-10-02T00:09:56.265Z',
+			 'SignatureVersion':'1',
+			 'Signature':'bjGZqo/EihCbD8ihiE7kAyx/uKY4AiuvZTUwwRw2fpQ8nZQ68+90U0vDmc305dkWjA+/lpxDIvgi3kEcNltQ1aJeeZCKFRHUdhmtzCqjsHN/EUhHGhk7kNGP6RKSeM3PBpF7nEZPyQYwGxGqdbHsa7WmSRBwShfs8ZwtyJfeRqvmGDe3P4AtFojhcplrcMG/npzr6eqrVAt24AaOthmFF2RIOWDEaF1aC1eUIjhLmWSMQzeax0qjlB+XYZ/ctBNU9EzJnHMZcs/ddUyD3Ai2n50ZMEOK1NNuCw7RqgKzXL+F0sxCG2LXs2/wwQe4EcqncqK2ai/TORedFzpnKRw3dQ==',
+			 'SigningCertUrl':'https://sns.us-east-1.amazonaws.com/SimpleNotificationService-433026a4050d206028891664da859041.pem',
+			 'UnsubscribeUrl':'https://sns.us-east-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-east-1:214602658230:StubHubzNewPriceHistory:c6bbd5ff-3f71-44a1-9ef1-a3552c5c6106',
+			 'MessageAttributes':{  
+ 
+			 }
+		  }
+	   }
+	]
+ }

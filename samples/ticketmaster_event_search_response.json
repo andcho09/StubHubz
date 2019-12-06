@@ -1,0 +1,1753 @@
+{
+	"events": [
+		{
+			"name": "Elton John - Farewell Yellow Brick Road",
+			"type": "event",
+			"id": "1A0ZA_vGkeNRor6",
+			"test": false,
+			"url": "http://www.ticketmaster.co.nz/elton-john-farewell-yellow-brick-road-dunedin-new-zealand-02-04-2020/event/24005641A3BD1787",
+			"locale": "en-us",
+			"images": [
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_3_2.jpg",
+					"width": 640,
+					"height": 427,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_16_9.jpg",
+					"width": 1024,
+					"height": 576,
+					"fallback": false
+				},
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_3_2.jpg",
+					"width": 1024,
+					"height": 683,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_16_9.jpg",
+					"width": 640,
+					"height": 360,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_LANDSCAPE_16_9.jpg",
+					"width": 1136,
+					"height": 639,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_EVENT_DETAIL_PAGE_16_9.jpg",
+					"width": 205,
+					"height": 115,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RECOMENDATION_16_9.jpg",
+					"width": 100,
+					"height": 56,
+					"fallback": false
+				},
+				{
+					"ratio": "4_3",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_CUSTOM.jpg",
+					"width": 305,
+					"height": 225,
+					"fallback": false
+				},
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_ARTIST_PAGE_3_2.jpg",
+					"width": 305,
+					"height": 203,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+					"width": 2048,
+					"height": 1152,
+					"fallback": false
+				}
+			],
+			"sales": {
+				"public": {
+					"startDateTime": "2019-05-23T21:00:00Z",
+					"startTBD": false,
+					"endDateTime": "2020-02-04T07:00:00Z"
+				}
+			},
+			"dates": {
+				"start": {
+					"localDate": "2020-02-04",
+					"localTime": "20:00:00",
+					"dateTime": "2020-02-04T07:00:00Z",
+					"dateTBD": false,
+					"dateTBA": false,
+					"timeTBA": false,
+					"noSpecificTime": false
+				},
+				"timezone": "Pacific/Auckland",
+				"status": {
+					"code": "onsale"
+				},
+				"spanMultipleDays": false
+			},
+			"classifications": [
+				{
+					"primary": true,
+					"segment": {
+						"id": "KZFzniwnSyZfZ7v7nJ",
+						"name": "Music"
+					},
+					"genre": {
+						"id": "KnvZfZ7vAeA",
+						"name": "Rock"
+					},
+					"subGenre": {
+						"id": "KZazBEonSMnZfZ7v6F1",
+						"name": "Pop"
+					},
+					"type": {
+						"id": "KZAyXgnZfZ7v7nI",
+						"name": "Undefined"
+					},
+					"subType": {
+						"id": "KZFzBErXgnZfZ7v7lJ",
+						"name": "Undefined"
+					},
+					"family": false
+				}
+			],
+			"info": "Chugg Entertainment in association with AEG Presents Elton John - Farewell Yellow Brick Road. Billboard crowned him the most successful performing male solo artist of all time! The Mercury News California wrote: \"Each song felt so important. Each moment seemed so significant. And the crowd hung on every word, spoken or sung. It wasn't just a concert, but rather a chance for these fans to express their thanks to a performer whose music has played such a huge part in the soundtracks of their lives.\" More than a concert; an unforgettable memory! Don't miss out your last chance! Start time is not confirmed and subject to change. Ticket Printing Delay: For the New Zealand leg of Elton John's Yellow Brick Road, all tickets, whether purchased online, by phone, or at outlets, will commence delivery and/or collection from: Monday 8th July, 2019.",
+			"pleaseNote": "NEW TICKETS ON SALE THIS FRIDAY 24 MAY, 9AM ENTRY Terms & Conditions for the Elton John Farewell Yellow Brick Road Australian and New Zealand concerts will be posted closer to the event date/s. Please check back about 30 days beforehand for the updated information. Fees & Charges: A payment processing fee of no more than 2.3% applies to purchases by credit card, debit card or gift card. The payment processing fee includes (but is not limited to) credit and debit card fees and expenses, administration and associated infrastructure costs. The payment processing fee will be added to the price displayed. This payment processing fee does not apply when you purchase tickets by cash at outlets or box-offices (subject to availability). A Handling Fee of $8.00 per transaction applies over the phone and online. Tickets will be on print delay until Friday 30 August 2019",
+			"priceRanges": [
+				{
+					"type": "standard",
+					"currency": "NZD",
+					"min": 99.0,
+					"max": 1449.0
+				},
+				{
+					"type": "standard",
+					"currency": "NZD",
+					"min": 88.5,
+					"max": 318.5
+				},
+				{
+					"type": "standard including fees",
+					"currency": "NZD",
+					"min": 101.28,
+					"max": 336.57
+				}
+			],
+			"seatmap": {
+				"staticUrl": "https://s1.ticketm.net/tmimages/venue/maps/nzl/94297s.gif"
+			},
+			"ticketLimit": {
+				"info": "There is a strict pre-sale maximum of six (6) tickets/packages per customer on this event. There is a strict general onsale maximum of ten (10) tickets and/or six (6) packages per customer on this event."
+			},
+			"_links": {
+				"self": {
+					"href": "/discovery/v2/events/1A0ZA_vGkeNRor6?locale=en-us"
+				},
+				"attractions": [
+					{
+						"href": "/discovery/v2/attractions/K8vZ9171G-7?locale=en-us"
+					}
+				],
+				"venues": [
+					{
+						"href": "/discovery/v2/venues/KovZpZAEekdA?locale=en-us"
+					}
+				]
+			},
+			"_embedded": {
+				"venues": [
+					{
+						"name": "Forsyth Barr Stadium",
+						"type": "venue",
+						"id": "KovZpZAEekdA",
+						"test": false,
+						"url": "http://www.ticketmaster.co.nz/Forsyth-Barr-Stadium-tickets-Dunedin/venue/295389",
+						"locale": "en-us",
+						"images": [
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dbimages/18655v.jpg",
+								"width": 205,
+								"height": 115,
+								"fallback": false
+							},
+							{
+								"ratio": "4_3",
+								"url": "https://s1.ticketm.net/dam/v/5b6/7e92fe75-ff6f-4c57-8cb4-6a14b3e665b6_312932_SOURCE.jpg",
+								"width": 3284,
+								"height": 2463,
+								"fallback": false,
+								"attribution": "CC BY-SA 3.0 via wikipedia"
+							},
+							{
+								"ratio": "4_3",
+								"url": "https://s1.ticketm.net/dam/v/5b6/7e92fe75-ff6f-4c57-8cb4-6a14b3e665b6_312932_SOURCE.jpg",
+								"width": 3284,
+								"height": 2463,
+								"fallback": false,
+								"attribution": "CC BY-SA 3.0 via wikipedia"
+							}
+						],
+						"postalCode": "9016",
+						"timezone": "Pacific/Auckland",
+						"city": {
+							"name": "Dunedin"
+						},
+						"state": {
+							"name": "New Zealand",
+							"stateCode": "NZ"
+						},
+						"country": {
+							"name": "New Zealand",
+							"countryCode": "NZ"
+						},
+						"address": {
+							"line1": "130 Anzac Avenue"
+						},
+						"location": {
+							"longitude": "170.524547",
+							"latitude": "-45.869296"
+						},
+						"markets": [
+							{
+								"name": "All of New Zealand",
+								"id": "350"
+							},
+							{
+								"name": "South Island",
+								"id": "352"
+							}
+						],
+						"dmas": [
+							{
+								"id": 750
+							},
+							{
+								"id": 752
+							}
+						],
+						"boxOfficeInfo": {
+							"openHoursDetail": "On event day, the box office(s) at Forsyth Barr Stadium open at least 30 minutes before gates open, but times vary for each event. For exact times please refer to box office opening hours under the event details. Outside of show times, please contact Dunedin Venues Management on 03 479 2823 or 0800 24 64 64 or at Forsyth Barr Stadium reception for all ticketing enquiries."
+						},
+						"parkingDetail": "On-street car parking is available in the immediate area surrounding the Stadium and in the harbour area, which is linked by a walkway from Wickliffe Street near the corner of Fryatt Street to Forsyth Barr Stadium. Parking in this harbour area is free. Car parks at the East End Stadium carpark are available to Forsyth Barr Stadium members with valid parking permits only.",
+						"accessibleSeatingDetail": "Wheelchair spaces are available in the Speight's and the North stands - each with an allocated companion seat - and must be booked through the venue. To purchase wheelchair spaces please contact Dunedin Venues Management on (03) 479 2823 or tickets@dunedinvenues.co.nz. Please mention at the time of booking if you require a wheelchair space. Disability access points to the Stadium are: - Speight's Stand (South) via Gate J (lift access available to all levels) - North Stand via Gates C and E (accessible ramp) - Mitre 10 Mega Stand (West) via Gate B - Otago Daily Times Stand (East) via Gate E There are seven marked mobility car parks in the East end car park between gates E & F, which are available on a first in, first served basis. For some events, more mobility parks may be made available. A mobility pass must be visible within the vehicle and all car park regulations must be adhered to.",
+						"generalInfo": {
+							"generalRule": "Lost property: If you lose a personal belonging at an event, please contact Dunedin Venues on 03 479 2823 or 0800 24 64 64. The venue management office is open Monday-Friday between the hours of 8.30-5.00pm. Food and beverages: Throughout the Stadium, there are 12 food and beverage outlets offering a wide variety of snacks, meals, alcoholic and non-alcoholic drinks. Full EFTPOS facilities are available. Smoking: Forsyth Barr Stadium is a smoke-free venue. Smoking is only allowed in the dedicated outdoor smoking areas. Entry conditions: - Bag searches may be conducted at the Gates at any time. For a list of prohibited items, please see http://www.forsythbarrstadium.co.nz/event-day/terms-of-entry/ - All patrons entering the stadium must be appropriately dressed. Clothing or signs with offensive messages may not be displayed and shoes must be worn at all times. - Patrons may be refused entry to the stadium if they: - Appear intoxicated/under the influence of drugs or exhibit disorderly behaviour. - Fail to comply security or gate staff requests, including observing any queues. - Attempt to bring in prohibited items. - Have been previously issued with a trespass notice that still applies. - Are not authorised to be on the stadium, for example have no valid entry tickets or accreditation passes. Entry and right to remain within the stadium is at the absolute discretion of Stadium Management. If you suffer from vertigo or have issues with heights, please avoid booking tickets in the Upper North Stand as this area is quite steep. Please note that although Forsyth Barr Stadium has a roof, it is not completely enclosed and some areas will be more exposed to the outdoor elements than others. Temperatures inside are generally only about 2-3 degrees higher than the outside temperature, so please dress accordingly. No alcohol is to be removed from the stadium. Patrons must not sit or stand in aisles, or block entry doors or emergency exits.",
+							"childRule": "Please check event listings for details that may apply to children for the event. Note all children under the age of 14 must be supervised by an accompanying adult as required by New Zealand Law. For family events, children under the age of 2 and under are free on a caregiver’s lap. If a child requires their own seat, a ticket must be purchased (unless stated otherwise). For some events, a special price category will be offered. Please check event listings for details. Please note that prams or strollers cannot be brought into the venue."
+						},
+						"upcomingEvents": {
+							"_total": 4,
+							"ticketmaster": 4
+						},
+						"ada": {
+							"adaPhones": "Please call 09 970 9711 or visit www.ticketmaster.co.nz/help",
+							"adaCustomCopy": "Please call the Ticketmaster Contact Centre if you require wheelchair or accessible seating bookings, or are otherwise unable to complete a ticket purchase online.",
+							"adaHours": "Monday – Friday 9:00am – 9:00pm; Saturday – Sunday 9:00am – 5:00pm (excludes Public Holidays)."
+						},
+						"_links": {
+							"self": {
+								"href": "/discovery/v2/venues/KovZpZAEekdA?locale=en-us"
+							}
+						}
+					}
+				],
+				"attractions": [
+					{
+						"name": "Elton John",
+						"type": "attraction",
+						"id": "K8vZ9171G-7",
+						"test": false,
+						"url": "https://www.ticketmaster.co.nz/elton-john-tickets/artist/735394",
+						"locale": "en-us",
+						"externalLinks": {
+							"youtube": [
+								{
+									"url": "https://www.youtube.com/user/EltonJohn"
+								}
+							],
+							"twitter": [
+								{
+									"url": "https://twitter.com/eltonoffical"
+								}
+							],
+							"itunes": [
+								{
+									"url": "https://itunes.apple.com/us/artist/id54657"
+								}
+							],
+							"lastfm": [
+								{
+									"url": "http://www.last.fm/music/Elton+John"
+								}
+							],
+							"facebook": [
+								{
+									"url": "https://www.facebook.com/EltonJohn"
+								}
+							],
+							"wiki": [
+								{
+									"url": "https://en.wikipedia.org/wiki/Elton_John"
+								}
+							],
+							"instagram": [
+								{
+									"url": "https://instagram.com/eltonjohn"
+								},
+								{
+									"url": "https://instagram.com/eltonjohn/"
+								}
+							],
+							"musicbrainz": [
+								{
+									"id": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822"
+								}
+							],
+							"homepage": [
+								{
+									"url": "http://www.eltonjohn.com/"
+								}
+							]
+						},
+						"images": [
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_3_2.jpg",
+								"width": 640,
+								"height": 427,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_16_9.jpg",
+								"width": 1024,
+								"height": 576,
+								"fallback": false
+							},
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_3_2.jpg",
+								"width": 1024,
+								"height": 683,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_16_9.jpg",
+								"width": 640,
+								"height": 360,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_LANDSCAPE_16_9.jpg",
+								"width": 1136,
+								"height": 639,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_EVENT_DETAIL_PAGE_16_9.jpg",
+								"width": 205,
+								"height": 115,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RECOMENDATION_16_9.jpg",
+								"width": 100,
+								"height": 56,
+								"fallback": false
+							},
+							{
+								"ratio": "4_3",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_CUSTOM.jpg",
+								"width": 305,
+								"height": 225,
+								"fallback": false
+							},
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_ARTIST_PAGE_3_2.jpg",
+								"width": 305,
+								"height": 203,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+								"width": 2048,
+								"height": 1152,
+								"fallback": false
+							}
+						],
+						"classifications": [
+							{
+								"primary": true,
+								"segment": {
+									"id": "KZFzniwnSyZfZ7v7nJ",
+									"name": "Music"
+								},
+								"genre": {
+									"id": "KnvZfZ7vAeA",
+									"name": "Rock"
+								},
+								"subGenre": {
+									"id": "KZazBEonSMnZfZ7v6F1",
+									"name": "Pop"
+								},
+								"type": {
+									"id": "KZAyXgnZfZ7v7nI",
+									"name": "Undefined"
+								},
+								"subType": {
+									"id": "KZFzBErXgnZfZ7v7lJ",
+									"name": "Undefined"
+								},
+								"family": false
+							}
+						],
+						"upcomingEvents": {
+							"_total": 88,
+							"tmr": 5,
+							"ticketmaster": 83
+						},
+						"_links": {
+							"self": {
+								"href": "/discovery/v2/attractions/K8vZ9171G-7?locale=en-us"
+							}
+						}
+					}
+				]
+			}
+		},
+		{
+			"name": "Elton John - Farewell Yellow Brick Road",
+			"type": "event",
+			"id": "17aZvpG61xOhoxA",
+			"test": false,
+			"url": "https://www.ticketmaster.co.nz/elton-john-farewell-yellow-brick-road-auckland-new-zealand-02-20-2020/event/240056A8A06D1885",
+			"locale": "en-us",
+			"images": [
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_3_2.jpg",
+					"width": 640,
+					"height": 427,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_16_9.jpg",
+					"width": 1024,
+					"height": 576,
+					"fallback": false
+				},
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_3_2.jpg",
+					"width": 1024,
+					"height": 683,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_16_9.jpg",
+					"width": 640,
+					"height": 360,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_LANDSCAPE_16_9.jpg",
+					"width": 1136,
+					"height": 639,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_EVENT_DETAIL_PAGE_16_9.jpg",
+					"width": 205,
+					"height": 115,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RECOMENDATION_16_9.jpg",
+					"width": 100,
+					"height": 56,
+					"fallback": false
+				},
+				{
+					"ratio": "4_3",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_CUSTOM.jpg",
+					"width": 305,
+					"height": 225,
+					"fallback": false
+				},
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_ARTIST_PAGE_3_2.jpg",
+					"width": 305,
+					"height": 203,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+					"width": 2048,
+					"height": 1152,
+					"fallback": false
+				}
+			],
+			"sales": {
+				"public": {
+					"startDateTime": "2019-05-21T21:00:00Z",
+					"startTBD": false,
+					"endDateTime": "2020-02-20T09:00:00Z"
+				},
+				"presales": [
+					{
+						"startDateTime": "2019-05-20T21:00:00Z",
+						"endDateTime": "2019-05-21T05:00:00Z",
+						"name": "Auckland Live Presale"
+					},
+					{
+						"startDateTime": "2019-05-20T21:00:00Z",
+						"endDateTime": "2019-05-21T05:00:00Z",
+						"name": "Chugg Presale"
+					},
+					{
+						"startDateTime": "2019-05-19T21:00:00Z",
+						"endDateTime": "2019-05-20T00:00:00Z",
+						"name": "Elton John Rocket Club Presale"
+					}
+				]
+			},
+			"dates": {
+				"start": {
+					"localDate": "2020-02-20",
+					"localTime": "19:30:00",
+					"dateTime": "2020-02-20T06:30:00Z",
+					"dateTBD": false,
+					"dateTBA": false,
+					"timeTBA": false,
+					"noSpecificTime": false
+				},
+				"timezone": "Pacific/Auckland",
+				"status": {
+					"code": "onsale"
+				},
+				"spanMultipleDays": false
+			},
+			"classifications": [
+				{
+					"primary": true,
+					"segment": {
+						"id": "KZFzniwnSyZfZ7v7nJ",
+						"name": "Music"
+					},
+					"genre": {
+						"id": "KnvZfZ7vAeA",
+						"name": "Rock"
+					},
+					"subGenre": {
+						"id": "KZazBEonSMnZfZ7v6F1",
+						"name": "Pop"
+					},
+					"type": {
+						"id": "KZAyXgnZfZ7v7nI",
+						"name": "Undefined"
+					},
+					"subType": {
+						"id": "KZFzBErXgnZfZ7v7lJ",
+						"name": "Undefined"
+					},
+					"family": false
+				}
+			],
+			"info": "Chugg Entertainment in association with AEG Presents Elton John - Farewell Yellow Brick Road. Billboard crowned him the most successful performing male solo artist of all time! The Mercury News California wrote: \"Each song felt so important. Each moment seemed so significant. And the crowd hung on every word, spoken or sung. It wasn't just a concert, but rather a chance for these fans to express their thanks to a performer whose music has played such a huge part in the soundtracks of their lives.\" More than a concert; an unforgettable memory! Don't miss out your last chance! Start time is not confirmed and subject to change. Ticket Printing Delay: For the New Zealand leg of Elton John's Yellow Brick Road, all tickets, whether purchased online, by phone, or at outlets, will commence delivery and/or collection from: Monday 8th July, 2019.",
+			"pleaseNote": "ENTRY Terms & Conditions for the Elton John Farewell Yellow Brick Road Australian and New Zealand concerts will be posted closer to the event date/s. Please check back about 30 days beforehand for the updated information. *Fees & Charges: A payment processing fee of 2.3% applies to purchases by credit card, debit card or gift card. The payment processing fee includes (but is not limited to) credit and debit card fees and expenses, administration and associated infrastructure costs. The payment processing fee will be added to the price displayed. This payment processing fee does not apply when you purchase tickets by cash at outlets or box-offices (subject to availability). A Handling Fee of $5.00 per transaction applies if booking online. Bookings made by phone will incur a transaction fee of $11.00. Tickets will be on print delay until Friday 30 August 2019",
+			"priceRanges": [
+				{
+					"type": "standard",
+					"currency": "NZD",
+					"min": 118.5,
+					"max": 1438.5
+				},
+				{
+					"type": "standard",
+					"currency": "NZD",
+					"min": 129.0,
+					"max": 1449.0
+				},
+				{
+					"type": "standard including fees",
+					"currency": "NZD",
+					"min": 133.87,
+					"max": 1484.23
+				}
+			],
+			"seatmap": {
+				"staticUrl": "https://s1.ticketm.net/tmimages/venue/maps/nzl/94457s.png"
+			},
+			"ticketLimit": {
+				"info": "There is a strict maximum of ten (10) Tickets/VIP Packages per customer on this event."
+			},
+			"_links": {
+				"self": {
+					"href": "/discovery/v2/events/17aZvpG61xOhoxA?locale=en-us"
+				},
+				"attractions": [
+					{
+						"href": "/discovery/v2/attractions/K8vZ9171G-7?locale=en-us"
+					}
+				],
+				"venues": [
+					{
+						"href": "/discovery/v2/venues/KovZpZA6t7lA?locale=en-us"
+					}
+				]
+			},
+			"_embedded": {
+				"venues": [
+					{
+						"name": "Mt Smart Stadium",
+						"type": "venue",
+						"id": "KovZpZA6t7lA",
+						"test": false,
+						"url": "http://www.ticketmaster.co.nz/Mt-Smart-Stadium-tickets-Auckland/venue/294941",
+						"locale": "en-us",
+						"images": [
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dbimages/20150v.jpg",
+								"width": 205,
+								"height": 115,
+								"fallback": false
+							}
+						],
+						"postalCode": "1061",
+						"timezone": "Pacific/Auckland",
+						"city": {
+							"name": "Auckland"
+						},
+						"state": {
+							"name": "New Zealand",
+							"stateCode": "NZ"
+						},
+						"country": {
+							"name": "New Zealand",
+							"countryCode": "NZ"
+						},
+						"address": {
+							"line1": "Beasley Avenue",
+							"line2": "Penrose"
+						},
+						"location": {
+							"longitude": "174.8134003",
+							"latitude": "-36.9199905"
+						},
+						"markets": [
+							{
+								"name": "All of New Zealand",
+								"id": "350"
+							},
+							{
+								"name": "North Island",
+								"id": "351"
+							}
+						],
+						"dmas": [
+							{
+								"id": 750
+							},
+							{
+								"id": 751
+							}
+						],
+						"parkingDetail": "There is NO PUBLIC PARKING at the stadium for concerts. Parking for function attendees during non event periods is via O'Rorke Road. Free parking is available on the streets surrounding Mt Smart Stadium (if not subjected to road closure for the delivery of an event) and local businesses often open their premises for event parking for a fee. There is public parking at the stadium for athletics events. Stadium parking entry is accessed from O'Rorke Road. Accessible car parking is available for all events. You must register for mobility parking for concerts. Please send your name, event you are attending, mobility permit number and physical delivery address to info@aucklandstadiums.co.nz. Your permit will also need to be presented on entry.",
+						"generalInfo": {
+							"generalRule": "Conditions of entry differ from event to event so please refer to the event page for specific conditions of entry related to that event. However as a standard, conditions of entry can be found at www.aucklandstadiums.co.nz"
+						},
+						"upcomingEvents": {
+							"_total": 19,
+							"ticketmaster": 19
+						},
+						"ada": {
+							"adaPhones": "Please call 09 970 9711 or visit www.ticketmaster.co.nz/help",
+							"adaCustomCopy": "Please call the Ticketmaster Contact Centre if you require wheelchair or accessible seating bookings, or are otherwise unable to complete a ticket purchase online.",
+							"adaHours": "Monday – Friday 9:00am – 9:00pm; Saturday – Sunday 9:00am – 5:00pm (excludes Public Holidays)."
+						},
+						"_links": {
+							"self": {
+								"href": "/discovery/v2/venues/KovZpZA6t7lA?locale=en-us"
+							}
+						}
+					}
+				],
+				"attractions": [
+					{
+						"name": "Elton John",
+						"type": "attraction",
+						"id": "K8vZ9171G-7",
+						"test": false,
+						"url": "https://www.ticketmaster.co.nz/elton-john-tickets/artist/735394",
+						"locale": "en-us",
+						"externalLinks": {
+							"youtube": [
+								{
+									"url": "https://www.youtube.com/user/EltonJohn"
+								}
+							],
+							"twitter": [
+								{
+									"url": "https://twitter.com/eltonoffical"
+								}
+							],
+							"itunes": [
+								{
+									"url": "https://itunes.apple.com/us/artist/id54657"
+								}
+							],
+							"lastfm": [
+								{
+									"url": "http://www.last.fm/music/Elton+John"
+								}
+							],
+							"facebook": [
+								{
+									"url": "https://www.facebook.com/EltonJohn"
+								}
+							],
+							"wiki": [
+								{
+									"url": "https://en.wikipedia.org/wiki/Elton_John"
+								}
+							],
+							"instagram": [
+								{
+									"url": "https://instagram.com/eltonjohn"
+								},
+								{
+									"url": "https://instagram.com/eltonjohn/"
+								}
+							],
+							"musicbrainz": [
+								{
+									"id": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822"
+								}
+							],
+							"homepage": [
+								{
+									"url": "http://www.eltonjohn.com/"
+								}
+							]
+						},
+						"images": [
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_3_2.jpg",
+								"width": 640,
+								"height": 427,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_16_9.jpg",
+								"width": 1024,
+								"height": 576,
+								"fallback": false
+							},
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_3_2.jpg",
+								"width": 1024,
+								"height": 683,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_16_9.jpg",
+								"width": 640,
+								"height": 360,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_LANDSCAPE_16_9.jpg",
+								"width": 1136,
+								"height": 639,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_EVENT_DETAIL_PAGE_16_9.jpg",
+								"width": 205,
+								"height": 115,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RECOMENDATION_16_9.jpg",
+								"width": 100,
+								"height": 56,
+								"fallback": false
+							},
+							{
+								"ratio": "4_3",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_CUSTOM.jpg",
+								"width": 305,
+								"height": 225,
+								"fallback": false
+							},
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_ARTIST_PAGE_3_2.jpg",
+								"width": 305,
+								"height": 203,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+								"width": 2048,
+								"height": 1152,
+								"fallback": false
+							}
+						],
+						"classifications": [
+							{
+								"primary": true,
+								"segment": {
+									"id": "KZFzniwnSyZfZ7v7nJ",
+									"name": "Music"
+								},
+								"genre": {
+									"id": "KnvZfZ7vAeA",
+									"name": "Rock"
+								},
+								"subGenre": {
+									"id": "KZazBEonSMnZfZ7v6F1",
+									"name": "Pop"
+								},
+								"type": {
+									"id": "KZAyXgnZfZ7v7nI",
+									"name": "Undefined"
+								},
+								"subType": {
+									"id": "KZFzBErXgnZfZ7v7lJ",
+									"name": "Undefined"
+								},
+								"family": false
+							}
+						],
+						"upcomingEvents": {
+							"_total": 88,
+							"tmr": 5,
+							"ticketmaster": 83
+						},
+						"_links": {
+							"self": {
+								"href": "/discovery/v2/attractions/K8vZ9171G-7?locale=en-us"
+							}
+						}
+					}
+				]
+			}
+		},
+		{
+			"name": "Elton John - Farewell Yellow Brick Road",
+			"type": "event",
+			"id": "1Ae8Z40GkTn47rb",
+			"test": false,
+			"url": "https://www.ticketmaster.co.nz/elton-john-farewell-yellow-brick-road-auckland-new-zealand-02-18-2020/event/2400564FEA544798",
+			"locale": "en-us",
+			"images": [
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_3_2.jpg",
+					"width": 640,
+					"height": 427,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_16_9.jpg",
+					"width": 1024,
+					"height": 576,
+					"fallback": false
+				},
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_3_2.jpg",
+					"width": 1024,
+					"height": 683,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_16_9.jpg",
+					"width": 640,
+					"height": 360,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_LANDSCAPE_16_9.jpg",
+					"width": 1136,
+					"height": 639,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_EVENT_DETAIL_PAGE_16_9.jpg",
+					"width": 205,
+					"height": 115,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RECOMENDATION_16_9.jpg",
+					"width": 100,
+					"height": 56,
+					"fallback": false
+				},
+				{
+					"ratio": "4_3",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_CUSTOM.jpg",
+					"width": 305,
+					"height": 225,
+					"fallback": false
+				},
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_ARTIST_PAGE_3_2.jpg",
+					"width": 305,
+					"height": 203,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+					"width": 2048,
+					"height": 1152,
+					"fallback": false
+				}
+			],
+			"sales": {
+				"public": {
+					"startDateTime": "2019-02-20T20:00:00Z",
+					"startTBD": false,
+					"endDateTime": "2020-02-11T07:00:00Z"
+				},
+				"presales": [
+					{
+						"startDateTime": "2019-02-19T20:00:00Z",
+						"endDateTime": "2019-02-20T04:00:00Z",
+						"name": "Elton John Rocket Club Presale"
+					}
+				]
+			},
+			"dates": {
+				"start": {
+					"localDate": "2020-02-18",
+					"localTime": "19:30:00",
+					"dateTime": "2020-02-18T06:30:00Z",
+					"dateTBD": false,
+					"dateTBA": false,
+					"timeTBA": false,
+					"noSpecificTime": false
+				},
+				"timezone": "Pacific/Auckland",
+				"status": {
+					"code": "onsale"
+				},
+				"spanMultipleDays": false
+			},
+			"classifications": [
+				{
+					"primary": true,
+					"segment": {
+						"id": "KZFzniwnSyZfZ7v7nJ",
+						"name": "Music"
+					},
+					"genre": {
+						"id": "KnvZfZ7vAeA",
+						"name": "Rock"
+					},
+					"subGenre": {
+						"id": "KZazBEonSMnZfZ7v6F1",
+						"name": "Pop"
+					},
+					"type": {
+						"id": "KZAyXgnZfZ7v7nI",
+						"name": "Undefined"
+					},
+					"subType": {
+						"id": "KZFzBErXgnZfZ7v7lJ",
+						"name": "Undefined"
+					},
+					"family": false
+				}
+			],
+			"info": "Chugg Entertainment in association with AEG Presents Elton John - Farewell Yellow Brick Road Dear friends in New Zealand, Due to an unforeseen scheduling conflict, we have been forced to move the dates on some of my Farewell Yellow Brick Road New Zealand shows by a week. It's unfortunate, but I hope to be able to see you all there on the new dates. I'm so pleased to be able to announce today a third Auckland show at Mt Smart Stadium on 20th February! I've always loved playing in New Zealand, and I can't wait to return to your beautiful country in 2020 to perform for you for the last time. Elton x Start time is not confirmed and subject to change. Ticket Printing Delay: For the New Zealand leg of Elton John's Yellow Brick Road, all tickets, whether purchased online, by phone, or at outlets, will commence delivery and/or collection from: Monday 8th July, 2019. IMPORTANT INFORMATION! This concert, originally Tuesday Feb 11, is rescheduled for Tuesday Feb 18",
+			"pleaseNote": "This show has been rescheduled ENTRY Terms & Conditions for the Elton John Farewell Yellow Brick Road Australian and New Zealand concerts will be posted closer to the event date/s. Please check back about 30 days beforehand for the updated information. *Fees & Charges: A payment processing fee of 2.3% applies to purchases by credit card, debit card or gift card. The payment processing fee includes (but is not limited to) credit and debit card fees and expenses, administration and associated infrastructure costs. The payment processing fee will be added to the price displayed. This payment processing fee does not apply when you purchase tickets by cash at outlets or box-offices (subject to availability). A Handling Fee of $5.00 per transaction applies if booking online. Bookings made by phone will incur a transaction fee of $11.00. Tickets will be on print delay until Friday 30 August 2019",
+			"priceRanges": [
+				{
+					"type": "standard",
+					"currency": "NZD",
+					"min": 238.5,
+					"max": 1438.5
+				},
+				{
+					"type": "standard including fees",
+					"currency": "NZD",
+					"min": 461.23,
+					"max": 1484.23
+				},
+				{
+					"type": "standard",
+					"currency": "NZD",
+					"min": 129.0,
+					"max": 1449.0
+				}
+			],
+			"seatmap": {
+				"staticUrl": "https://s1.ticketm.net/tmimages/venue/maps/nzl/94457s.png"
+			},
+			"_links": {
+				"self": {
+					"href": "/discovery/v2/events/1Ae8Z40GkTn47rb?locale=en-us"
+				},
+				"attractions": [
+					{
+						"href": "/discovery/v2/attractions/K8vZ9171G-7?locale=en-us"
+					}
+				],
+				"venues": [
+					{
+						"href": "/discovery/v2/venues/KovZpZA6t7lA?locale=en-us"
+					}
+				]
+			},
+			"_embedded": {
+				"venues": [
+					{
+						"name": "Mt Smart Stadium",
+						"type": "venue",
+						"id": "KovZpZA6t7lA",
+						"test": false,
+						"url": "http://www.ticketmaster.co.nz/Mt-Smart-Stadium-tickets-Auckland/venue/294941",
+						"locale": "en-us",
+						"images": [
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dbimages/20150v.jpg",
+								"width": 205,
+								"height": 115,
+								"fallback": false
+							}
+						],
+						"postalCode": "1061",
+						"timezone": "Pacific/Auckland",
+						"city": {
+							"name": "Auckland"
+						},
+						"state": {
+							"name": "New Zealand",
+							"stateCode": "NZ"
+						},
+						"country": {
+							"name": "New Zealand",
+							"countryCode": "NZ"
+						},
+						"address": {
+							"line1": "Beasley Avenue",
+							"line2": "Penrose"
+						},
+						"location": {
+							"longitude": "174.8134003",
+							"latitude": "-36.9199905"
+						},
+						"markets": [
+							{
+								"name": "All of New Zealand",
+								"id": "350"
+							},
+							{
+								"name": "North Island",
+								"id": "351"
+							}
+						],
+						"dmas": [
+							{
+								"id": 750
+							},
+							{
+								"id": 751
+							}
+						],
+						"parkingDetail": "There is NO PUBLIC PARKING at the stadium for concerts. Parking for function attendees during non event periods is via O'Rorke Road. Free parking is available on the streets surrounding Mt Smart Stadium (if not subjected to road closure for the delivery of an event) and local businesses often open their premises for event parking for a fee. There is public parking at the stadium for athletics events. Stadium parking entry is accessed from O'Rorke Road. Accessible car parking is available for all events. You must register for mobility parking for concerts. Please send your name, event you are attending, mobility permit number and physical delivery address to info@aucklandstadiums.co.nz. Your permit will also need to be presented on entry.",
+						"generalInfo": {
+							"generalRule": "Conditions of entry differ from event to event so please refer to the event page for specific conditions of entry related to that event. However as a standard, conditions of entry can be found at www.aucklandstadiums.co.nz"
+						},
+						"upcomingEvents": {
+							"_total": 19,
+							"ticketmaster": 19
+						},
+						"ada": {
+							"adaPhones": "Please call 09 970 9711 or visit www.ticketmaster.co.nz/help",
+							"adaCustomCopy": "Please call the Ticketmaster Contact Centre if you require wheelchair or accessible seating bookings, or are otherwise unable to complete a ticket purchase online.",
+							"adaHours": "Monday – Friday 9:00am – 9:00pm; Saturday – Sunday 9:00am – 5:00pm (excludes Public Holidays)."
+						},
+						"_links": {
+							"self": {
+								"href": "/discovery/v2/venues/KovZpZA6t7lA?locale=en-us"
+							}
+						}
+					}
+				],
+				"attractions": [
+					{
+						"name": "Elton John",
+						"type": "attraction",
+						"id": "K8vZ9171G-7",
+						"test": false,
+						"url": "https://www.ticketmaster.co.nz/elton-john-tickets/artist/735394",
+						"locale": "en-us",
+						"externalLinks": {
+							"youtube": [
+								{
+									"url": "https://www.youtube.com/user/EltonJohn"
+								}
+							],
+							"twitter": [
+								{
+									"url": "https://twitter.com/eltonoffical"
+								}
+							],
+							"itunes": [
+								{
+									"url": "https://itunes.apple.com/us/artist/id54657"
+								}
+							],
+							"lastfm": [
+								{
+									"url": "http://www.last.fm/music/Elton+John"
+								}
+							],
+							"facebook": [
+								{
+									"url": "https://www.facebook.com/EltonJohn"
+								}
+							],
+							"wiki": [
+								{
+									"url": "https://en.wikipedia.org/wiki/Elton_John"
+								}
+							],
+							"instagram": [
+								{
+									"url": "https://instagram.com/eltonjohn"
+								},
+								{
+									"url": "https://instagram.com/eltonjohn/"
+								}
+							],
+							"musicbrainz": [
+								{
+									"id": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822"
+								}
+							],
+							"homepage": [
+								{
+									"url": "http://www.eltonjohn.com/"
+								}
+							]
+						},
+						"images": [
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_3_2.jpg",
+								"width": 640,
+								"height": 427,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_16_9.jpg",
+								"width": 1024,
+								"height": 576,
+								"fallback": false
+							},
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_3_2.jpg",
+								"width": 1024,
+								"height": 683,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_16_9.jpg",
+								"width": 640,
+								"height": 360,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_LANDSCAPE_16_9.jpg",
+								"width": 1136,
+								"height": 639,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_EVENT_DETAIL_PAGE_16_9.jpg",
+								"width": 205,
+								"height": 115,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RECOMENDATION_16_9.jpg",
+								"width": 100,
+								"height": 56,
+								"fallback": false
+							},
+							{
+								"ratio": "4_3",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_CUSTOM.jpg",
+								"width": 305,
+								"height": 225,
+								"fallback": false
+							},
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_ARTIST_PAGE_3_2.jpg",
+								"width": 305,
+								"height": 203,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+								"width": 2048,
+								"height": 1152,
+								"fallback": false
+							}
+						],
+						"classifications": [
+							{
+								"primary": true,
+								"segment": {
+									"id": "KZFzniwnSyZfZ7v7nJ",
+									"name": "Music"
+								},
+								"genre": {
+									"id": "KnvZfZ7vAeA",
+									"name": "Rock"
+								},
+								"subGenre": {
+									"id": "KZazBEonSMnZfZ7v6F1",
+									"name": "Pop"
+								},
+								"type": {
+									"id": "KZAyXgnZfZ7v7nI",
+									"name": "Undefined"
+								},
+								"subType": {
+									"id": "KZFzBErXgnZfZ7v7lJ",
+									"name": "Undefined"
+								},
+								"family": false
+							}
+						],
+						"upcomingEvents": {
+							"_total": 88,
+							"tmr": 5,
+							"ticketmaster": 83
+						},
+						"_links": {
+							"self": {
+								"href": "/discovery/v2/attractions/K8vZ9171G-7?locale=en-us"
+							}
+						}
+					}
+				]
+			}
+		},
+		{
+			"name": "Elton John - Farewell Yellow Brick Road",
+			"type": "event",
+			"id": "1A0ZA_vGkeNwsru",
+			"test": false,
+			"url": "http://www.ticketmaster.co.nz/elton-john-farewell-yellow-brick-road-auckland-new-zealand-02-16-2020/event/24005641A3CB178D",
+			"locale": "en-us",
+			"images": [
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_3_2.jpg",
+					"width": 640,
+					"height": 427,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_16_9.jpg",
+					"width": 1024,
+					"height": 576,
+					"fallback": false
+				},
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_3_2.jpg",
+					"width": 1024,
+					"height": 683,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_16_9.jpg",
+					"width": 640,
+					"height": 360,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_LANDSCAPE_16_9.jpg",
+					"width": 1136,
+					"height": 639,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_EVENT_DETAIL_PAGE_16_9.jpg",
+					"width": 205,
+					"height": 115,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RECOMENDATION_16_9.jpg",
+					"width": 100,
+					"height": 56,
+					"fallback": false
+				},
+				{
+					"ratio": "4_3",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_CUSTOM.jpg",
+					"width": 305,
+					"height": 225,
+					"fallback": false
+				},
+				{
+					"ratio": "3_2",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_ARTIST_PAGE_3_2.jpg",
+					"width": 305,
+					"height": 203,
+					"fallback": false
+				},
+				{
+					"ratio": "16_9",
+					"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+					"width": 2048,
+					"height": 1152,
+					"fallback": false
+				}
+			],
+			"sales": {
+				"public": {
+					"startDateTime": "2019-02-13T20:00:00Z",
+					"startTBD": false,
+					"endDateTime": "2020-02-09T07:00:00Z"
+				},
+				"presales": [
+					{
+						"startDateTime": "2019-02-12T23:00:00Z",
+						"endDateTime": "2019-02-13T04:00:00Z",
+						"name": "Elton John Rocket Club Presale"
+					},
+					{
+						"startDateTime": "2019-02-11T20:00:00Z",
+						"endDateTime": "2019-02-12T19:59:00Z",
+						"name": "Chugg Entertainment Presale"
+					},
+					{
+						"startDateTime": "2019-02-11T20:00:00Z",
+						"endDateTime": "2019-02-12T19:59:00Z",
+						"name": "NZME iHeart Presale"
+					},
+					{
+						"startDateTime": "2019-02-11T20:00:00Z",
+						"endDateTime": "2019-02-12T19:59:00Z",
+						"name": "Auckland Live Presale"
+					},
+					{
+						"startDateTime": "2019-02-11T20:00:00Z",
+						"endDateTime": "2019-02-12T19:59:00Z",
+						"name": "New Zealand Warriors Presale"
+					}
+				]
+			},
+			"dates": {
+				"start": {
+					"localDate": "2020-02-16",
+					"localTime": "19:30:00",
+					"dateTime": "2020-02-16T06:30:00Z",
+					"dateTBD": false,
+					"dateTBA": false,
+					"timeTBA": false,
+					"noSpecificTime": false
+				},
+				"timezone": "Pacific/Auckland",
+				"status": {
+					"code": "onsale"
+				},
+				"spanMultipleDays": false
+			},
+			"classifications": [
+				{
+					"primary": true,
+					"segment": {
+						"id": "KZFzniwnSyZfZ7v7nJ",
+						"name": "Music"
+					},
+					"genre": {
+						"id": "KnvZfZ7vAeA",
+						"name": "Rock"
+					},
+					"subGenre": {
+						"id": "KZazBEonSMnZfZ7v6F1",
+						"name": "Pop"
+					},
+					"type": {
+						"id": "KZAyXgnZfZ7v7nI",
+						"name": "Undefined"
+					},
+					"subType": {
+						"id": "KZFzBErXgnZfZ7v7lJ",
+						"name": "Undefined"
+					},
+					"family": false
+				}
+			],
+			"info": "Chugg Entertainment in association with AEG Presents Elton John - Farewell Yellow Brick Road Dear friends in New Zealand, Due to an unforeseen scheduling conflict, we have been forced to move the dates on some of my Farewell Yellow Brick Road New Zealand shows by a week. It's unfortunate, but I hope to be able to see you all there on the new dates. I'm so pleased to be able to announce today a third Auckland show at Mt Smart Stadium on 20th February! I've always loved playing in New Zealand, and I can't wait to return to your beautiful country in 2020 to perform for you for the last time. Elton x Start time is not confirmed and subject to change. Ticket Printing Delay: For the New Zealand leg of Elton John's Yellow Brick Road, all tickets, whether purchased online, by phone, or at outlets, will commence delivery and/or collection from: Monday 8th July, IMPORTANT INFORMATION! This concert, originally Sunday Feb 9, is rescheduled for Sunday Feb 16",
+			"pleaseNote": "This show has been rescheduled ENTRY Terms & Conditions for the Elton John Farewell Yellow Brick Road Australian and New Zealand concerts will be posted closer to the event date/s. Please check back about 30 days beforehand for the updated information. *Fees & Charges: A payment processing fee of 2.3% applies to purchases by credit card, debit card or gift card. The payment processing fee includes (but is not limited to) credit and debit card fees and expenses, administration and associated infrastructure costs. The payment processing fee will be added to the price displayed. This payment processing fee does not apply when you purchase tickets by cash at outlets or box-offices (subject to availability). A Handling Fee of $5.00 per transaction applies if booking online. Bookings made by phone will incur a transaction fee of $11.00. Tickets will be on print delay until Friday 30 August 2019",
+			"priceRanges": [
+				{
+					"type": "standard",
+					"currency": "NZD",
+					"min": 118.5,
+					"max": 1438.5
+				},
+				{
+					"type": "standard",
+					"currency": "NZD",
+					"min": 129.0,
+					"max": 1449.0
+				},
+				{
+					"type": "standard including fees",
+					"currency": "NZD",
+					"min": 133.87,
+					"max": 1484.23
+				}
+			],
+			"seatmap": {
+				"staticUrl": "https://s1.ticketm.net/tmimages/venue/maps/nzl/94457s.png"
+			},
+			"_links": {
+				"self": {
+					"href": "/discovery/v2/events/1A0ZA_vGkeNwsru?locale=en-us"
+				},
+				"attractions": [
+					{
+						"href": "/discovery/v2/attractions/K8vZ9171G-7?locale=en-us"
+					}
+				],
+				"venues": [
+					{
+						"href": "/discovery/v2/venues/KovZpZA6t7lA?locale=en-us"
+					}
+				]
+			},
+			"_embedded": {
+				"venues": [
+					{
+						"name": "Mt Smart Stadium",
+						"type": "venue",
+						"id": "KovZpZA6t7lA",
+						"test": false,
+						"url": "http://www.ticketmaster.co.nz/Mt-Smart-Stadium-tickets-Auckland/venue/294941",
+						"locale": "en-us",
+						"images": [
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dbimages/20150v.jpg",
+								"width": 205,
+								"height": 115,
+								"fallback": false
+							}
+						],
+						"postalCode": "1061",
+						"timezone": "Pacific/Auckland",
+						"city": {
+							"name": "Auckland"
+						},
+						"state": {
+							"name": "New Zealand",
+							"stateCode": "NZ"
+						},
+						"country": {
+							"name": "New Zealand",
+							"countryCode": "NZ"
+						},
+						"address": {
+							"line1": "Beasley Avenue",
+							"line2": "Penrose"
+						},
+						"location": {
+							"longitude": "174.8134003",
+							"latitude": "-36.9199905"
+						},
+						"markets": [
+							{
+								"name": "All of New Zealand",
+								"id": "350"
+							},
+							{
+								"name": "North Island",
+								"id": "351"
+							}
+						],
+						"dmas": [
+							{
+								"id": 750
+							},
+							{
+								"id": 751
+							}
+						],
+						"parkingDetail": "There is NO PUBLIC PARKING at the stadium for concerts. Parking for function attendees during non event periods is via O'Rorke Road. Free parking is available on the streets surrounding Mt Smart Stadium (if not subjected to road closure for the delivery of an event) and local businesses often open their premises for event parking for a fee. There is public parking at the stadium for athletics events. Stadium parking entry is accessed from O'Rorke Road. Accessible car parking is available for all events. You must register for mobility parking for concerts. Please send your name, event you are attending, mobility permit number and physical delivery address to info@aucklandstadiums.co.nz. Your permit will also need to be presented on entry.",
+						"generalInfo": {
+							"generalRule": "Conditions of entry differ from event to event so please refer to the event page for specific conditions of entry related to that event. However as a standard, conditions of entry can be found at www.aucklandstadiums.co.nz"
+						},
+						"upcomingEvents": {
+							"_total": 19,
+							"ticketmaster": 19
+						},
+						"ada": {
+							"adaPhones": "Please call 09 970 9711 or visit www.ticketmaster.co.nz/help",
+							"adaCustomCopy": "Please call the Ticketmaster Contact Centre if you require wheelchair or accessible seating bookings, or are otherwise unable to complete a ticket purchase online.",
+							"adaHours": "Monday – Friday 9:00am – 9:00pm; Saturday – Sunday 9:00am – 5:00pm (excludes Public Holidays)."
+						},
+						"_links": {
+							"self": {
+								"href": "/discovery/v2/venues/KovZpZA6t7lA?locale=en-us"
+							}
+						}
+					}
+				],
+				"attractions": [
+					{
+						"name": "Elton John",
+						"type": "attraction",
+						"id": "K8vZ9171G-7",
+						"test": false,
+						"url": "https://www.ticketmaster.co.nz/elton-john-tickets/artist/735394",
+						"locale": "en-us",
+						"externalLinks": {
+							"youtube": [
+								{
+									"url": "https://www.youtube.com/user/EltonJohn"
+								}
+							],
+							"twitter": [
+								{
+									"url": "https://twitter.com/eltonoffical"
+								}
+							],
+							"itunes": [
+								{
+									"url": "https://itunes.apple.com/us/artist/id54657"
+								}
+							],
+							"lastfm": [
+								{
+									"url": "http://www.last.fm/music/Elton+John"
+								}
+							],
+							"facebook": [
+								{
+									"url": "https://www.facebook.com/EltonJohn"
+								}
+							],
+							"wiki": [
+								{
+									"url": "https://en.wikipedia.org/wiki/Elton_John"
+								}
+							],
+							"instagram": [
+								{
+									"url": "https://instagram.com/eltonjohn"
+								},
+								{
+									"url": "https://instagram.com/eltonjohn/"
+								}
+							],
+							"musicbrainz": [
+								{
+									"id": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822"
+								}
+							],
+							"homepage": [
+								{
+									"url": "http://www.eltonjohn.com/"
+								}
+							]
+						},
+						"images": [
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_3_2.jpg",
+								"width": 640,
+								"height": 427,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_16_9.jpg",
+								"width": 1024,
+								"height": 576,
+								"fallback": false
+							},
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_3_2.jpg",
+								"width": 1024,
+								"height": 683,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_PORTRAIT_16_9.jpg",
+								"width": 640,
+								"height": 360,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RETINA_LANDSCAPE_16_9.jpg",
+								"width": 1136,
+								"height": 639,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_EVENT_DETAIL_PAGE_16_9.jpg",
+								"width": 205,
+								"height": 115,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_RECOMENDATION_16_9.jpg",
+								"width": 100,
+								"height": 56,
+								"fallback": false
+							},
+							{
+								"ratio": "4_3",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_CUSTOM.jpg",
+								"width": 305,
+								"height": 225,
+								"fallback": false
+							},
+							{
+								"ratio": "3_2",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_ARTIST_PAGE_3_2.jpg",
+								"width": 305,
+								"height": 203,
+								"fallback": false
+							},
+							{
+								"ratio": "16_9",
+								"url": "https://s1.ticketm.net/dam/a/aec/73864049-ad1d-4418-9e54-1206812ebaec_962031_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+								"width": 2048,
+								"height": 1152,
+								"fallback": false
+							}
+						],
+						"classifications": [
+							{
+								"primary": true,
+								"segment": {
+									"id": "KZFzniwnSyZfZ7v7nJ",
+									"name": "Music"
+								},
+								"genre": {
+									"id": "KnvZfZ7vAeA",
+									"name": "Rock"
+								},
+								"subGenre": {
+									"id": "KZazBEonSMnZfZ7v6F1",
+									"name": "Pop"
+								},
+								"type": {
+									"id": "KZAyXgnZfZ7v7nI",
+									"name": "Undefined"
+								},
+								"subType": {
+									"id": "KZFzBErXgnZfZ7v7lJ",
+									"name": "Undefined"
+								},
+								"family": false
+							}
+						],
+						"upcomingEvents": {
+							"_total": 88,
+							"tmr": 5,
+							"ticketmaster": 83
+						},
+						"_links": {
+							"self": {
+								"href": "/discovery/v2/attractions/K8vZ9171G-7?locale=en-us"
+							}
+						}
+					}
+				]
+			}
+		}
+	]
+},
+"_links": {
+	"self": {
+		"href": "/discovery/v2/events.json?countryCode=nz&keyword=Elton+John"
+	}
+},
+"page": {
+	"size": 20,
+	"totalElements": 4,
+	"totalPages": 1,
+	"number": 0
+}
+}

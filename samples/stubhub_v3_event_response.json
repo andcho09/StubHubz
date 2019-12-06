@@ -1,0 +1,69 @@
+{
+	"numFound": 1,
+	"events": [
+		{
+			"id": 104128143,
+			"status": "Active",
+			"locale": "en_US",
+			"name": "Sevilla FC vs Liverpool FC",
+			"description": "Liverpool FC - Sevilla FC Tickets - Buy and sell Sevilla FC vs Liverpool FC Fenway Park Tickets for July 21 at Fenway Park in Boston, MA on StubHub!",
+			"webURI": "liverpool-fc-tickets-liverpool-fc-boston-fenway-park-7-21-2019/event/104128143/",
+			"eventDateLocal": "2019-07-21T18:00:00-0400",
+			"eventDateUTC": "2019-07-21T22:00:00+0000",
+			"createdDate": "2019-04-25T17:05:35+0000",
+			"lastUpdatedDate": "2019-07-11T21:29:40+0000",
+			"hideEventDate": false,
+			"hideEventTime": false,
+			"venue": {
+				"id": 2901,
+				"name": "Fenway Park",
+				"city": "Boston",
+				"state": "MA",
+				"postalCode": "02215",
+				"country": "US",
+				"venueConfigId": 1296795,
+				"venueConfigName": "Soccer International - Dynamic"
+			},
+			"timezone": "EDT",
+			"performers": [
+				{
+					"id": 13327,
+					"name": "Liverpool FC"
+				},
+				{
+					"id": 728721,
+					"name": "Sevilla FC"
+				}
+			],
+			"ancestors": {
+				"categories": [
+					{
+						"id": 0
+					},
+					{
+						"id": 28,
+						"name": "Sports"
+					},
+					{
+						"id": 114,
+						"name": "Soccer"
+					}
+				],
+				"groupings": [],
+				"performers": [
+					{
+						"id": 13327,
+						"name": "Liverpool FC"
+					}
+				]
+			},
+			"currencyCode": "USD",
+			"ticketInfo": {
+				"minListPrice": 84.98,
+				"maxListPrice": 996.99,
+				"totalTickets": 1283,
+				"totalListings": 297
+			}
+		}
+	]
+}

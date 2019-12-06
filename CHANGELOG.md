@@ -2,11 +2,14 @@
 
 ## Unreleased
 
+## 0.10 (Sep 2019)
+
 * New
     * Added stub for integrating with TicketMaster. Note this is incomplete.
 * Bug fixes
     * Fixed not being able to retrieve event info from StubHub, [issue #5](https://bitbucket.org/andcho09/stubhubz/issues/5/fix-not-being-able-to-track-certain-event). This involved partially moving to StubHub's V3 (2019-era) API. Note we're still using some V2 (2017-era) APIs because the V3 API doesn't return pricing/zone summary info.
     * Fixed retrieving listings failing because StubHub deprecated their V2 API, [issue #10](https://bitbucket.org/andcho09/stubhubz/issues/10/stubhub-api-is-moving-from-v2-to-v3). This involved full migration to the V3 API which doesn't return average price for you and subsequently introduced a bug where average price is incorrect if there are more than 100 listings for a zone (see [issue #11](https://bitbucket.org/andcho09/stubhubz/issues/11))
+    * Upgraded to PynamoDB 4 from 3.4 since the AWS runtime updated and broke things. We now include botocore in the Lambda code artifact to prevent this from happening in the future.
 
 ## 0.9 (Jul 2019)
 

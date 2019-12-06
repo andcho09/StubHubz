@@ -1,0 +1,5672 @@
+{
+    "eventId": 9852350,
+    "totalListings": 176,
+    "totalTickets": 461,
+    "minQuantity": 1,
+    "maxQuantity": 12,
+    "listing": [
+        {
+            "listingId": 1247008924,
+            "currentPrice": {
+                "amount": 194.03,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 156.99,
+                "currency": "USD"
+            },
+            "sectionId": 59847,
+            "row": "15",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 309",
+            "sectionName": "Balcony 309",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274819970,
+            "currentPrice": {
+                "amount": 196.48,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 159.00,
+                "currency": "USD"
+            },
+            "sectionId": 59849,
+            "row": "9",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 311",
+            "sectionName": "Balcony 311",
+            "seatNumbers": "10",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247825596,
+            "currentPrice": {
+                "amount": 208.68,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 169.00,
+                "currency": "USD"
+            },
+            "sectionId": 59847,
+            "row": "1",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 309",
+            "sectionName": "Balcony 309",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "listingAttributeList": [
+                101
+            ],
+            "listingAttributeCategoryList": [
+                6
+            ],
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                2,
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1269828596,
+            "currentPrice": {
+                "amount": 209.90,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 170.00,
+                "currency": "USD"
+            },
+            "sectionId": 59840,
+            "row": "6",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 302",
+            "sectionName": "Balcony 302",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1271458418,
+            "currentPrice": {
+                "amount": 218.44,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 177.00,
+                "currency": "USD"
+            },
+            "sectionId": 59841,
+            "row": "15",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 303",
+            "sectionName": "Balcony 303",
+            "seatNumbers": "23",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274717260,
+            "currentPrice": {
+                "amount": 234.29,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 189.99,
+                "currency": "USD"
+            },
+            "sectionId": 59853,
+            "row": "4",
+            "quantity": 1,
+            "sellerSectionName": "315",
+            "sectionName": "Balcony 315",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "listingAttributeList": [
+                101
+            ],
+            "listingAttributeCategoryList": [
+                6
+            ],
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 98.25,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1272251317,
+            "currentPrice": {
+                "amount": 236.74,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 192.00,
+                "currency": "USD"
+            },
+            "sectionId": 59848,
+            "row": "4",
+            "quantity": 1,
+            "sellerSectionName": "310",
+            "sectionName": "Balcony 310",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1272775419,
+            "currentPrice": {
+                "amount": 242.12,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 196.41,
+                "currency": "USD"
+            },
+            "sectionId": 59842,
+            "row": "2",
+            "quantity": 1,
+            "sellerSectionName": "BAL304",
+            "sectionName": "Balcony 304",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246798006,
+            "currentPrice": {
+                "amount": 245.13,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 198.88,
+                "currency": "USD"
+            },
+            "sectionId": 59845,
+            "row": "14",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 307",
+            "sectionName": "Balcony 307",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1269218717,
+            "currentPrice": {
+                "amount": 245.28,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 199.00,
+                "currency": "USD"
+            },
+            "sectionId": 59873,
+            "row": "C",
+            "quantity": 1,
+            "sellerSectionName": "CLB115",
+            "sectionName": "Club 115",
+            "seatNumbers": "12",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274823544,
+            "currentPrice": {
+                "amount": 245.28,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 199.00,
+                "currency": "USD"
+            },
+            "sectionId": 59856,
+            "row": "8",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 318",
+            "sectionName": "Balcony 318",
+            "seatNumbers": "20",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1248196292,
+            "currentPrice": {
+                "amount": 246.49,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 199.99,
+                "currency": "USD"
+            },
+            "sectionId": 59845,
+            "row": "1",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 307",
+            "sectionName": "Balcony 307",
+            "seatNumbers": "16",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247339670,
+            "currentPrice": {
+                "amount": 246.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 200.00,
+                "currency": "USD"
+            },
+            "sectionId": 59655,
+            "row": "20",
+            "quantity": 1,
+            "sellerSectionName": "Loge 7",
+            "sectionName": "Loge 7",
+            "seatNumbers": "11",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247679109,
+            "currentPrice": {
+                "amount": 246.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 200.00,
+                "currency": "USD"
+            },
+            "sectionId": 59656,
+            "row": "7",
+            "quantity": 1,
+            "sellerSectionName": "Loge 8",
+            "sectionName": "Loge 8",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1269226970,
+            "currentPrice": {
+                "amount": 259.03,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 210.27,
+                "currency": "USD"
+            },
+            "sectionId": 59652,
+            "row": "23",
+            "quantity": 1,
+            "sellerSectionName": "Loge 4",
+            "sectionName": "Loge 4",
+            "seatNumbers": "29",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274697192,
+            "currentPrice": {
+                "amount": 270.90,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 220.00,
+                "currency": "USD"
+            },
+            "sectionId": 59660,
+            "row": "7",
+            "quantity": 1,
+            "sellerSectionName": "LOGE12",
+            "sectionName": "Loge 12",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246757327,
+            "currentPrice": {
+                "amount": 273.61,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 222.22,
+                "currency": "USD"
+            },
+            "sectionId": 59654,
+            "row": "19",
+            "quantity": 1,
+            "sellerSectionName": "Loge 6",
+            "sectionName": "Loge 6",
+            "seatNumbers": "1",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247601895,
+            "currentPrice": {
+                "amount": 276.02,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 224.20,
+                "currency": "USD"
+            },
+            "sectionId": 59873,
+            "row": "E",
+            "quantity": 1,
+            "sellerSectionName": "CLUB 115",
+            "sectionName": "Club 115",
+            "seatNumbers": "5",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1262761954,
+            "currentPrice": {
+                "amount": 277.00,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 225.00,
+                "currency": "USD"
+            },
+            "sectionId": 59652,
+            "row": "14",
+            "quantity": 1,
+            "sellerSectionName": "Loge 4",
+            "sectionName": "Loge 4",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "listingAttributeList": [
+                101
+            ],
+            "listingAttributeCategoryList": [
+                6
+            ],
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1250475989,
+            "currentPrice": {
+                "amount": 277.00,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 225.00,
+                "currency": "USD"
+            },
+            "sectionId": 59875,
+            "row": "D",
+            "quantity": 1,
+            "sellerSectionName": "club 139",
+            "sectionName": "Club 139",
+            "seatNumbers": "General Admission",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1275013534,
+            "currentPrice": {
+                "amount": 277.00,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 225.00,
+                "currency": "USD"
+            },
+            "sectionId": 59873,
+            "row": "C",
+            "quantity": 1,
+            "sellerSectionName": "Club 115",
+            "sectionName": "Club 115",
+            "seatNumbers": "5",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1272546851,
+            "currentPrice": {
+                "amount": 277.96,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 223.53,
+                "currency": "USD"
+            },
+            "sectionId": 59835,
+            "row": "1",
+            "quantity": 4,
+            "sellerSectionName": "S24",
+            "sectionName": "Promenade S 24",
+            "seatNumbers": "5,6,7,8",
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "deliveryTypeList": [
+                5
+            ],
+            "deliveryMethodList": [
+                22,
+                23,
+                24,
+                25
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1258776685,
+            "currentPrice": {
+                "amount": 278.53,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 224.00,
+                "currency": "USD"
+            },
+            "sectionId": 59832,
+            "row": "1",
+            "quantity": 4,
+            "sellerSectionName": "PRMS21",
+            "sectionName": "Promenade S 21",
+            "seatNumbers": "2,3,4,1",
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "deliveryTypeList": [
+                5
+            ],
+            "deliveryMethodList": [
+                22,
+                23,
+                24,
+                25
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1269318449,
+            "currentPrice": {
+                "amount": 279.44,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 227.00,
+                "currency": "USD"
+            },
+            "sectionId": 59851,
+            "row": "11",
+            "quantity": 3,
+            "sellerSectionName": "BAL313",
+            "sectionName": "Balcony 313",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1248103572,
+            "currentPrice": {
+                "amount": 283.09,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 229.99,
+                "currency": "USD"
+            },
+            "sectionId": 59856,
+            "row": "8",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 318",
+            "sectionName": "Balcony 318",
+            "seatNumbers": "10",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1261255350,
+            "currentPrice": {
+                "amount": 283.10,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 230.00,
+                "currency": "USD"
+            },
+            "sectionId": 59656,
+            "row": " 21",
+            "quantity": 1,
+            "sellerSectionName": "Loge 8",
+            "sectionName": "Loge 8",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1273308227,
+            "currentPrice": {
+                "amount": 283.10,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 230.00,
+                "currency": "USD"
+            },
+            "sectionId": 59826,
+            "row": "1",
+            "quantity": 3,
+            "sellerSectionName": "Promenade S 15",
+            "sectionName": "Promenade S 15",
+            "seatNumbers": "General Admission",
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1264215687,
+            "currentPrice": {
+                "amount": 283.22,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 230.10,
+                "currency": "USD"
+            },
+            "sectionId": 59659,
+            "row": "8",
+            "quantity": 1,
+            "sellerSectionName": "Loge 11",
+            "sectionName": "Loge 11",
+            "seatNumbers": "1",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1273308307,
+            "currentPrice": {
+                "amount": 289.20,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 235.00,
+                "currency": "USD"
+            },
+            "sectionId": 59797,
+            "row": "1",
+            "quantity": 4,
+            "sellerSectionName": "Promenade N 9",
+            "sectionName": "Promenade N 9",
+            "seatNumbers": "General Admission",
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1272017736,
+            "currentPrice": {
+                "amount": 289.20,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 235.00,
+                "currency": "USD"
+            },
+            "sectionId": 59843,
+            "row": "11",
+            "quantity": 6,
+            "sellerSectionName": "BAL305",
+            "sectionName": "Balcony 305",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1265829908,
+            "currentPrice": {
+                "amount": 289.55,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 235.29,
+                "currency": "USD"
+            },
+            "sectionId": 59848,
+            "row": "11",
+            "quantity": 4,
+            "sellerSectionName": "BAL310",
+            "sectionName": "Balcony 310",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1273801102,
+            "currentPrice": {
+                "amount": 290.41,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 235.99,
+                "currency": "USD"
+            },
+            "sectionId": 59867,
+            "row": "7",
+            "quantity": 1,
+            "sellerSectionName": "329",
+            "sectionName": "Balcony 329",
+            "seatNumbers": "3",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1249203543,
+            "currentPrice": {
+                "amount": 290.42,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 236.00,
+                "currency": "USD"
+            },
+            "sectionId": 59849,
+            "row": "15",
+            "quantity": 6,
+            "sellerSectionName": "BAL311",
+            "sectionName": "Balcony 311",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 94.00,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1263634819,
+            "currentPrice": {
+                "amount": 291.64,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 237.00,
+                "currency": "USD"
+            },
+            "sectionId": 59658,
+            "row": "14",
+            "quantity": 1,
+            "sellerSectionName": "Loge 10",
+            "sectionName": "Loge 10",
+            "seatNumbers": "10",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1272017693,
+            "currentPrice": {
+                "amount": 292.86,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 238.00,
+                "currency": "USD"
+            },
+            "sectionId": 59851,
+            "row": "12",
+            "quantity": 6,
+            "sellerSectionName": "BAL313",
+            "sectionName": "Balcony 313",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247022711,
+            "currentPrice": {
+                "amount": 294.08,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 239.00,
+                "currency": "USD"
+            },
+            "sectionId": 59846,
+            "row": "7",
+            "quantity": 4,
+            "sellerSectionName": "308",
+            "sectionName": "Balcony 308",
+            "seatNumbers": "3,4,5,6",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "1",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1272017694,
+            "currentPrice": {
+                "amount": 294.08,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 239.00,
+                "currency": "USD"
+            },
+            "sectionId": 59851,
+            "row": "15",
+            "quantity": 3,
+            "sellerSectionName": "BAL313",
+            "sectionName": "Balcony 313",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1248103443,
+            "currentPrice": {
+                "amount": 295.29,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 239.99,
+                "currency": "USD"
+            },
+            "sectionId": 59854,
+            "row": "6",
+            "quantity": 1,
+            "sellerSectionName": "Balcony 316",
+            "sectionName": "Balcony 316",
+            "seatNumbers": "4",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1273308406,
+            "currentPrice": {
+                "amount": 295.30,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 240.00,
+                "currency": "USD"
+            },
+            "sectionId": 59825,
+            "row": "1",
+            "quantity": 4,
+            "sellerSectionName": "Promenade S 14",
+            "sectionName": "Promenade S 14",
+            "seatNumbers": "General Admission",
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246962782,
+            "currentPrice": {
+                "amount": 295.30,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 240.00,
+                "currency": "USD"
+            },
+            "sectionId": 59649,
+            "row": "18",
+            "quantity": 1,
+            "sellerSectionName": "Loge 1",
+            "sectionName": "Loge 1",
+            "seatNumbers": "18",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1249203546,
+            "currentPrice": {
+                "amount": 295.30,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 240.00,
+                "currency": "USD"
+            },
+            "sectionId": 59844,
+            "row": "5",
+            "quantity": 6,
+            "sellerSectionName": "BAL306",
+            "sectionName": "Balcony 306",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 94.00,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1274577467,
+            "currentPrice": {
+                "amount": 306.28,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 249.00,
+                "currency": "USD"
+            },
+            "sectionId": 59850,
+            "row": "1",
+            "quantity": 3,
+            "sellerSectionName": "BAL312",
+            "sectionName": "Balcony 312",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246961238,
+            "currentPrice": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 250.00,
+                "currency": "USD"
+            },
+            "sectionId": 59661,
+            "row": "15",
+            "quantity": 1,
+            "sellerSectionName": "13",
+            "sectionName": "Loge 13",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247603301,
+            "currentPrice": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 250.00,
+                "currency": "USD"
+            },
+            "sectionId": 59874,
+            "row": "E",
+            "quantity": 1,
+            "sellerSectionName": "Club 137",
+            "sectionName": "Club 137",
+            "seatNumbers": "1",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1248188263,
+            "currentPrice": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 250.00,
+                "currency": "USD"
+            },
+            "sectionId": 59652,
+            "row": "12",
+            "quantity": 1,
+            "sellerSectionName": "Loge 4",
+            "sectionName": "Loge 4",
+            "seatNumbers": "13",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1265829842,
+            "currentPrice": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 250.00,
+                "currency": "USD"
+            },
+            "sectionId": 59853,
+            "row": "15",
+            "quantity": 4,
+            "sellerSectionName": "BAL315",
+            "sectionName": "Balcony 315",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274833946,
+            "currentPrice": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 250.00,
+                "currency": "USD"
+            },
+            "sectionId": 59844,
+            "row": "2",
+            "quantity": 6,
+            "sellerSectionName": "BAL306",
+            "sectionName": "Balcony 306",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 94.71,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1274987173,
+            "currentPrice": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 250.00,
+                "currency": "USD"
+            },
+            "sectionId": 59842,
+            "row": "5",
+            "quantity": 6,
+            "sellerSectionName": "BAL304",
+            "sectionName": "Balcony 304",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247148911,
+            "currentPrice": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 250.00,
+                "currency": "USD"
+            },
+            "sectionId": 59638,
+            "row": "15",
+            "quantity": 1,
+            "sellerSectionName": "Floor C",
+            "sectionName": "Floor C",
+            "seatNumbers": "10",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1271908839,
+            "currentPrice": {
+                "amount": 308.71,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 250.99,
+                "currency": "USD"
+            },
+            "sectionId": 59855,
+            "row": "14",
+            "quantity": 4,
+            "sellerSectionName": "BAL317",
+            "sectionName": "Balcony 317",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1268629737,
+            "currentPrice": {
+                "amount": 309.03,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 249.00,
+                "currency": "USD"
+            },
+            "sectionId": 59656,
+            "row": "16",
+            "quantity": 1,
+            "sellerSectionName": "Loge 8",
+            "sectionName": "Loge 8",
+            "seatNumbers": "1",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                5
+            ],
+            "deliveryMethodList": [
+                22,
+                23,
+                24
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1258081738,
+            "currentPrice": {
+                "amount": 309.94,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 252.00,
+                "currency": "USD"
+            },
+            "sectionId": 59849,
+            "row": "5",
+            "quantity": 3,
+            "sellerSectionName": "311",
+            "sectionName": "Balcony 311",
+            "seatNumbers": "General Admission",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "1",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 94.85,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1265353909,
+            "currentPrice": {
+                "amount": 313.60,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 255.00,
+                "currency": "USD"
+            },
+            "sectionId": 59851,
+            "row": "7",
+            "quantity": 4,
+            "sellerSectionName": "BAL313",
+            "sectionName": "Balcony 313",
+            "seatNumbers": "6,7,8,9",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1264197906,
+            "currentPrice": {
+                "amount": 325.79,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 264.99,
+                "currency": "USD"
+            },
+            "sectionId": 59654,
+            "row": "3",
+            "quantity": 1,
+            "sellerSectionName": "Loge 6",
+            "sectionName": "Loge 6",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1248459830,
+            "currentPrice": {
+                "amount": 328.24,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 267.00,
+                "currency": "USD"
+            },
+            "sectionId": 59875,
+            "row": "C",
+            "quantity": 1,
+            "sellerSectionName": "Club 139",
+            "sectionName": "Club 139",
+            "seatNumbers": "General Admission",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "listingAttributeList": [
+                958
+            ],
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1266161678,
+            "currentPrice": {
+                "amount": 330.68,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 269.00,
+                "currency": "USD"
+            },
+            "sectionId": 59650,
+            "row": "8",
+            "quantity": 1,
+            "sellerSectionName": "LOGE2",
+            "sectionName": "Loge 2",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 114.45,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1246754362,
+            "currentPrice": {
+                "amount": 338.00,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 275.00,
+                "currency": "USD"
+            },
+            "sectionId": 59661,
+            "row": "4",
+            "quantity": 1,
+            "sellerSectionName": "Loge 13",
+            "sectionName": "Loge 13",
+            "seatNumbers": "12",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1271455969,
+            "currentPrice": {
+                "amount": 340.44,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 277.00,
+                "currency": "USD"
+            },
+            "sectionId": 59644,
+            "row": "16",
+            "quantity": 1,
+            "sellerSectionName": "Floor J",
+            "sectionName": "Floor J",
+            "seatNumbers": "10",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1271456357,
+            "currentPrice": {
+                "amount": 340.44,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 277.00,
+                "currency": "USD"
+            },
+            "sectionId": 59644,
+            "row": "15",
+            "quantity": 1,
+            "sellerSectionName": "Floor J",
+            "sectionName": "Floor J",
+            "seatNumbers": "12",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1271457260,
+            "currentPrice": {
+                "amount": 340.44,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 277.00,
+                "currency": "USD"
+            },
+            "sectionId": 59652,
+            "row": "12",
+            "quantity": 1,
+            "sellerSectionName": "Loge 4",
+            "sectionName": "Loge 4",
+            "seatNumbers": "9",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1271456894,
+            "currentPrice": {
+                "amount": 340.44,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 277.00,
+                "currency": "USD"
+            },
+            "sectionId": 59653,
+            "row": "26",
+            "quantity": 1,
+            "sellerSectionName": "Loge 5",
+            "sectionName": "Loge 5",
+            "seatNumbers": "6",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247089669,
+            "currentPrice": {
+                "amount": 340.44,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 277.00,
+                "currency": "USD"
+            },
+            "sectionId": 59656,
+            "row": "24",
+            "quantity": 1,
+            "sellerSectionName": "Loge 8",
+            "sectionName": "Loge 8",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247612400,
+            "currentPrice": {
+                "amount": 342.88,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 279.00,
+                "currency": "USD"
+            },
+            "sectionId": 59659,
+            "row": "15",
+            "quantity": 1,
+            "sellerSectionName": "Loge 11",
+            "sectionName": "Loge 11",
+            "seatNumbers": "12",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274980654,
+            "currentPrice": {
+                "amount": 342.88,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 279.00,
+                "currency": "USD"
+            },
+            "sectionId": 59660,
+            "row": "8",
+            "quantity": 1,
+            "sellerSectionName": "LOGE 12",
+            "sectionName": "Loge 12",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1264197907,
+            "currentPrice": {
+                "amount": 344.09,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 279.99,
+                "currency": "USD"
+            },
+            "sectionId": 59654,
+            "row": "3",
+            "quantity": 1,
+            "sellerSectionName": "Loge 6",
+            "sectionName": "Loge 6",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274701218,
+            "currentPrice": {
+                "amount": 350.20,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 285.00,
+                "currency": "USD"
+            },
+            "sectionId": 59670,
+            "row": "8",
+            "quantity": 1,
+            "sellerSectionName": "LOGE22",
+            "sectionName": "Loge 22",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1268553915,
+            "currentPrice": {
+                "amount": 353.86,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 288.00,
+                "currency": "USD"
+            },
+            "sectionId": 59659,
+            "row": "10",
+            "quantity": 1,
+            "sellerSectionName": "Loge 11",
+            "sectionName": "Loge 11",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246964914,
+            "currentPrice": {
+                "amount": 353.87,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 288.01,
+                "currency": "USD"
+            },
+            "sectionId": 59649,
+            "row": "7",
+            "quantity": 1,
+            "sellerSectionName": "Loge 1",
+            "sectionName": "Loge 1",
+            "seatNumbers": "13",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1247698574,
+            "currentPrice": {
+                "amount": 354.93,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 288.88,
+                "currency": "USD"
+            },
+            "sectionId": 59649,
+            "row": "4",
+            "quantity": 1,
+            "sellerSectionName": "Loge 1",
+            "sectionName": "Loge 1",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1266134090,
+            "currentPrice": {
+                "amount": 367.28,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 299.00,
+                "currency": "USD"
+            },
+            "sectionId": 59643,
+            "row": "5",
+            "quantity": 1,
+            "sellerSectionName": "Floor H",
+            "sectionName": "Floor H",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1254695875,
+            "currentPrice": {
+                "amount": 367.95,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 299.55,
+                "currency": "USD"
+            },
+            "sectionId": 59639,
+            "row": "5",
+            "quantity": 1,
+            "sellerSectionName": "FLOORD",
+            "sectionName": "Floor D",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246904236,
+            "currentPrice": {
+                "amount": 368.49,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 299.99,
+                "currency": "USD"
+            },
+            "sectionId": 59641,
+            "row": "1",
+            "quantity": 1,
+            "sellerSectionName": "Floor F",
+            "sectionName": "Floor F",
+            "seatNumbers": "General Admission",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "listingAttributeList": [
+                1108
+            ],
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1248149994,
+            "currentPrice": {
+                "amount": 368.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 300.00,
+                "currency": "USD"
+            },
+            "sectionId": 59657,
+            "row": "24",
+            "quantity": 4,
+            "sellerSectionName": "Loge 9",
+            "sectionName": "Loge 9",
+            "seatNumbers": "21,22,23,24",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1262761234,
+            "currentPrice": {
+                "amount": 368.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 300.00,
+                "currency": "USD"
+            },
+            "sectionId": 59641,
+            "row": "F",
+            "quantity": 1,
+            "sellerSectionName": "Floor F",
+            "sectionName": "Floor F",
+            "seatNumbers": "General Admission",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1266359717,
+            "currentPrice": {
+                "amount": 368.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 300.00,
+                "currency": "USD"
+            },
+            "sectionId": 59871,
+            "row": "E",
+            "quantity": 1,
+            "sellerSectionName": "CLUB 111",
+            "sectionName": "Club 111",
+            "seatNumbers": "General Admission",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1270322498,
+            "currentPrice": {
+                "amount": 368.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 300.00,
+                "currency": "USD"
+            },
+            "sectionId": 59650,
+            "row": "6",
+            "quantity": 1,
+            "sellerSectionName": "Loge 2",
+            "sectionName": "Loge 2",
+            "seatNumbers": "17",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274663579,
+            "currentPrice": {
+                "amount": 375.39,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 303.39,
+                "currency": "USD"
+            },
+            "sectionId": 59642,
+            "row": "1",
+            "quantity": 1,
+            "sellerSectionName": "Floor G",
+            "sectionName": "Floor G",
+            "seatNumbers": "6",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                5
+            ],
+            "deliveryMethodList": [
+                22,
+                23,
+                24
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274663521,
+            "currentPrice": {
+                "amount": 378.46,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 305.91,
+                "currency": "USD"
+            },
+            "sectionId": 59660,
+            "row": "4",
+            "quantity": 1,
+            "sellerSectionName": "Loge 12",
+            "sectionName": "Loge 12",
+            "seatNumbers": "18",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                5
+            ],
+            "deliveryMethodList": [
+                22,
+                23,
+                24
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1264198179,
+            "currentPrice": {
+                "amount": 386.79,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 314.99,
+                "currency": "USD"
+            },
+            "sectionId": 59639,
+            "row": "5",
+            "quantity": 1,
+            "sellerSectionName": "Floor D",
+            "sectionName": "Floor D",
+            "seatNumbers": "General Admission",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274861380,
+            "currentPrice": {
+                "amount": 386.80,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 315.00,
+                "currency": "USD"
+            },
+            "sectionId": 59852,
+            "row": "1",
+            "quantity": 4,
+            "sellerSectionName": "BAL314",
+            "sectionName": "Balcony 314",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246798701,
+            "currentPrice": {
+                "amount": 391.53,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 318.88,
+                "currency": "USD"
+            },
+            "sectionId": 59641,
+            "row": "2",
+            "quantity": 1,
+            "sellerSectionName": "Floor F",
+            "sectionName": "Floor F",
+            "seatNumbers": "General Admission",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1249589827,
+            "currentPrice": {
+                "amount": 391.68,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 319.00,
+                "currency": "USD"
+            },
+            "sectionId": 59644,
+            "row": "9",
+            "quantity": 3,
+            "sellerSectionName": "Floor J",
+            "sectionName": "Floor J",
+            "seatNumbers": "General Admission",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1273644626,
+            "currentPrice": {
+                "amount": 391.68,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 319.00,
+                "currency": "USD"
+            },
+            "sectionId": 59663,
+            "row": "15",
+            "quantity": 3,
+            "sellerSectionName": "LOGE15",
+            "sectionName": "Loge 15",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1249203401,
+            "currentPrice": {
+                "amount": 392.90,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 320.00,
+                "currency": "USD"
+            },
+            "sectionId": 59654,
+            "row": "18",
+            "quantity": 3,
+            "sellerSectionName": "LOGE6",
+            "sectionName": "Loge 6",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 114.45,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1249203407,
+            "currentPrice": {
+                "amount": 397.78,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 324.00,
+                "currency": "USD"
+            },
+            "sectionId": 59656,
+            "row": "6",
+            "quantity": 6,
+            "sellerSectionName": "LOGE8",
+            "sectionName": "Loge 8",
+            "seatNumbers": "General Admission",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 114.45,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1274266697,
+            "currentPrice": {
+                "amount": 399.00,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 325.00,
+                "currency": "USD"
+            },
+            "sectionId": 59874,
+            "row": "E",
+            "quantity": 3,
+            "sellerSectionName": "CLUB 137",
+            "sectionName": "Club 137",
+            "seatNumbers": "General Admission",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1257582095,
+            "currentPrice": {
+                "amount": 403.88,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 329.00,
+                "currency": "USD"
+            },
+            "sectionId": 59868,
+            "row": "9",
+            "quantity": 3,
+            "sellerSectionName": "BAL330",
+            "sectionName": "Balcony 330",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1257593613,
+            "currentPrice": {
+                "amount": 403.88,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 329.00,
+                "currency": "USD"
+            },
+            "sectionId": 59842,
+            "row": "11",
+            "quantity": 6,
+            "sellerSectionName": "BAL304",
+            "sectionName": "Balcony 304",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1269391125,
+            "currentPrice": {
+                "amount": 405.10,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 330.00,
+                "currency": "USD"
+            },
+            "sectionId": 59870,
+            "row": "C",
+            "quantity": 1,
+            "sellerSectionName": "CLB109",
+            "sectionName": "Club 109",
+            "seatNumbers": "General Admission",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 118.70,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1265353928,
+            "currentPrice": {
+                "amount": 406.93,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 331.50,
+                "currency": "USD"
+            },
+            "sectionId": 59874,
+            "row": "C",
+            "quantity": 3,
+            "sellerSectionName": "CLB137",
+            "sectionName": "Club 137",
+            "seatNumbers": "13,14,15",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1259238237,
+            "currentPrice": {
+                "amount": 407.85,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 330.00,
+                "currency": "USD"
+            },
+            "sectionId": 59878,
+            "row": "D",
+            "quantity": 4,
+            "sellerSectionName": "CLB145",
+            "sectionName": "Club 145",
+            "seatNumbers": "6,7,8,9",
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "deliveryTypeList": [
+                5
+            ],
+            "deliveryMethodList": [
+                22,
+                23,
+                24,
+                25
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "1",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "sellerOwnInd": 0,
+            "faceValue": {
+                "amount": 106.00,
+                "currency": "USD"
+            },
+            "score": 0.0
+        },
+        {
+            "listingId": 1274697193,
+            "currentPrice": {
+                "amount": 411.20,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 335.00,
+                "currency": "USD"
+            },
+            "sectionId": 59669,
+            "row": "3",
+            "quantity": 1,
+            "sellerSectionName": "LOGE21",
+            "sectionName": "Loge 21",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274697194,
+            "currentPrice": {
+                "amount": 411.20,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 335.00,
+                "currency": "USD"
+            },
+            "sectionId": 59669,
+            "row": "3",
+            "quantity": 1,
+            "sellerSectionName": "LOGE21",
+            "sectionName": "Loge 21",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1260135238,
+            "currentPrice": {
+                "amount": 417.29,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 339.99,
+                "currency": "USD"
+            },
+            "sectionId": 59854,
+            "row": "8",
+            "quantity": 6,
+            "sellerSectionName": "BAL316",
+            "sectionName": "Balcony 316",
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1251990115,
+            "currentPrice": {
+                "amount": 423.40,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 345.00,
+                "currency": "USD"
+            },
+            "sectionId": 59659,
+            "row": "1",
+            "quantity": 1,
+            "sellerSectionName": "LOGE 11",
+            "sectionName": "Loge 11",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "listingAttributeList": [
+                1108
+            ],
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1263080978,
+            "currentPrice": {
+                "amount": 428.28,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 349.00,
+                "currency": "USD"
+            },
+            "sectionId": 59650,
+            "row": "14",
+            "quantity": 3,
+            "sellerSectionName": "LOGE2",
+            "sectionName": "Loge 2",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "2",
+            "ticketSplit": "1",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246964244,
+            "currentPrice": {
+                "amount": 428.29,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 349.01,
+                "currency": "USD"
+            },
+            "sectionId": 59661,
+            "row": "13",
+            "quantity": 1,
+            "sellerSectionName": "Loge 13",
+            "sectionName": "Loge 13",
+            "seatNumbers": "12",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246751584,
+            "currentPrice": {
+                "amount": 429.49,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 349.99,
+                "currency": "USD"
+            },
+            "sectionId": 59636,
+            "row": "14",
+            "quantity": 1,
+            "sellerSectionName": "Floor A",
+            "sectionName": "Floor A",
+            "seatNumbers": "General Admission",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1246765254,
+            "currentPrice": {
+                "amount": 429.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 350.00,
+                "currency": "USD"
+            },
+            "sectionId": 59638,
+            "row": "10",
+            "quantity": 1,
+            "sellerSectionName": "Floor C",
+            "sectionName": "Floor C",
+            "seatNumbers": "General Admission",
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "listingAttributeList": [
+                1085
+            ],
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "0",
+            "ticketSplit": "1",
+            "splitVector": [
+                1
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        },
+        {
+            "listingId": 1274878811,
+            "currentPrice": {
+                "amount": 429.50,
+                "currency": "USD"
+            },
+            "listingPrice": {
+                "amount": 350.00,
+                "currency": "USD"
+            },
+            "sectionId": 59658,
+            "row": "10",
+            "quantity": 3,
+            "sellerSectionName": "LOGE 10",
+            "sectionName": "Loge 10",
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "deliveryTypeList": [
+                1
+            ],
+            "deliveryMethodList": [
+                1
+            ],
+            "isGA": 0,
+            "dirtyTicketInd": false,
+            "splitOption": "1",
+            "ticketSplit": "2",
+            "splitVector": [
+                1,
+                3
+            ],
+            "sellerOwnInd": 0,
+            "score": 0.0
+        }
+    ],
+    "section_stats": [
+        {
+            "sectionId": 59849,
+            "sectionName": "Balcony 311",
+            "minTicketPrice": 196.47999572753906,
+            "maxTicketPrice": 309.94000244140625,
+            "averageTicketPrice": 265.61333719889325,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 10,
+            "totalListings": 3,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 307.9880035400391
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 196.48,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 265.61,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 309.94,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59661,
+            "sectionName": "Loge 13",
+            "minTicketPrice": 307.5,
+            "maxTicketPrice": 553.9400024414062,
+            "averageTicketPrice": 406.93250274658203,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 3,
+            "totalTickets": 6,
+            "totalListings": 4,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 535.0925033569335
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 406.93,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 553.94,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59724,
+            "sectionName": "Suite Level V 546",
+            "minTicketPrice": 521.0,
+            "maxTicketPrice": 521.0,
+            "averageTicketPrice": 521.0,
+            "minTicketQuantity": 10,
+            "maxTicketQuantity": 10,
+            "totalTickets": 10,
+            "totalListings": 1,
+            "zoneId": 17478,
+            "zoneName": "Suite Level V",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 521.0
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 521.00,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 521.00,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 521.00,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59652,
+            "sectionName": "Loge 4",
+            "minTicketPrice": 259.0299987792969,
+            "maxTicketPrice": 612.489990234375,
+            "averageTicketPrice": 359.2919982910156,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 2,
+            "totalTickets": 6,
+            "totalListings": 5,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 558.0799926757812
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 259.03,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 359.29,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 612.49,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59649,
+            "sectionName": "Loge 1",
+            "minTicketPrice": 295.29998779296875,
+            "maxTicketPrice": 6285.5,
+            "averageTicketPrice": 1261.6942836216517,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 4,
+            "totalTickets": 12,
+            "totalListings": 7,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 4563.470007324215
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 295.30,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 1261.69,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 6285.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59850,
+            "sectionName": "Balcony 312",
+            "minTicketPrice": 306.2799987792969,
+            "maxTicketPrice": 306.2799987792969,
+            "averageTicketPrice": 306.2799987792969,
+            "minTicketQuantity": 3,
+            "maxTicketQuantity": 3,
+            "totalTickets": 3,
+            "totalListings": 1,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 306.2799987792969
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 306.28,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 306.28,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 306.28,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59655,
+            "sectionName": "Loge 7",
+            "minTicketPrice": 246.5,
+            "maxTicketPrice": 439.0799865722656,
+            "averageTicketPrice": 342.7899932861328,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 2,
+            "totalListings": 2,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 429.4509872436523
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 246.50,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 342.79,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 439.08,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59670,
+            "sectionName": "Loge 22",
+            "minTicketPrice": 350.20001220703125,
+            "maxTicketPrice": 350.20001220703125,
+            "averageTicketPrice": 350.20001220703125,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 1,
+            "totalListings": 1,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 350.20001220703125
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 350.20,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 350.20,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 350.20,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59644,
+            "sectionName": "Floor J",
+            "minTicketPrice": 340.44000244140625,
+            "maxTicketPrice": 490.5,
+            "averageTicketPrice": 409.49199829101565,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 17,
+            "totalListings": 5,
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 489.2799987792969
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 340.44,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 409.49,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 490.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59797,
+            "sectionName": "Promenade N 9",
+            "minTicketPrice": 289.20001220703125,
+            "maxTicketPrice": 289.20001220703125,
+            "averageTicketPrice": 289.20001220703125,
+            "minTicketQuantity": 4,
+            "maxTicketQuantity": 4,
+            "totalTickets": 4,
+            "totalListings": 1,
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 289.20001220703125
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 289.20,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 289.20,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 289.20,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59840,
+            "sectionName": "Balcony 302",
+            "minTicketPrice": 209.89999389648438,
+            "maxTicketPrice": 209.89999389648438,
+            "averageTicketPrice": 209.89999389648438,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 1,
+            "totalListings": 1,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 209.89999389648438
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 209.90,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 209.90,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 209.90,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59669,
+            "sectionName": "Loge 21",
+            "minTicketPrice": 411.20001220703125,
+            "maxTicketPrice": 977.280029296875,
+            "averageTicketPrice": 608.9925079345703,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 4,
+            "totalTickets": 8,
+            "totalListings": 4,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 926.1315216064452
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 411.20,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 608.99,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 977.28,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59826,
+            "sectionName": "Promenade S 15",
+            "minTicketPrice": 283.1000061035156,
+            "maxTicketPrice": 283.1000061035156,
+            "averageTicketPrice": 283.1000061035156,
+            "minTicketQuantity": 3,
+            "maxTicketQuantity": 3,
+            "totalTickets": 3,
+            "totalListings": 1,
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 283.1000061035156
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 283.10,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 283.10,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 283.10,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59693,
+            "sectionName": "Suite Level V 515",
+            "minTicketPrice": 460.0,
+            "maxTicketPrice": 460.0,
+            "averageTicketPrice": 460.0,
+            "minTicketQuantity": 12,
+            "maxTicketQuantity": 12,
+            "totalTickets": 12,
+            "totalListings": 1,
+            "zoneId": 17478,
+            "zoneName": "Suite Level V",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 460.0
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 460.00,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 460.00,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 460.00,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59656,
+            "sectionName": "Loge 8",
+            "minTicketPrice": 246.5,
+            "maxTicketPrice": 397.7799987792969,
+            "averageTicketPrice": 315.3700012207031,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 10,
+            "totalListings": 5,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 386.31199951171874
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 246.50,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 315.37,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 397.78,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59663,
+            "sectionName": "Loge 15",
+            "minTicketPrice": 391.67999267578125,
+            "maxTicketPrice": 489.2799987792969,
+            "averageTicketPrice": 440.47999572753906,
+            "minTicketQuantity": 3,
+            "maxTicketQuantity": 3,
+            "totalTickets": 6,
+            "totalListings": 2,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 484.39999847412105
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 391.68,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 440.48,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 489.28,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59660,
+            "sectionName": "Loge 12",
+            "minTicketPrice": 270.8999938964844,
+            "maxTicketPrice": 548.489990234375,
+            "averageTicketPrice": 385.1824951171875,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 5,
+            "totalTickets": 8,
+            "totalListings": 4,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 522.9854904174804
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 270.90,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 385.18,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 548.49,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59871,
+            "sectionName": "Club 111",
+            "minTicketPrice": 368.5,
+            "maxTicketPrice": 368.5,
+            "averageTicketPrice": 368.5,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 1,
+            "totalListings": 1,
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 368.5
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 368.50,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 368.50,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 368.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59874,
+            "sectionName": "Club 137",
+            "minTicketPrice": 307.5,
+            "maxTicketPrice": 489.2799987792969,
+            "averageTicketPrice": 400.67749786376953,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 3,
+            "totalTickets": 10,
+            "totalListings": 4,
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 476.9274978637695
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 400.68,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 489.28,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59877,
+            "sectionName": "Club 143",
+            "minTicketPrice": 582.0,
+            "maxTicketPrice": 643.0,
+            "averageTicketPrice": 612.5,
+            "minTicketQuantity": 5,
+            "maxTicketQuantity": 5,
+            "totalTickets": 10,
+            "totalListings": 2,
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 639.95
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 582.00,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 612.50,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 643.00,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59832,
+            "sectionName": "Promenade S 21",
+            "minTicketPrice": 278.5299987792969,
+            "maxTicketPrice": 278.5299987792969,
+            "averageTicketPrice": 278.5299987792969,
+            "minTicketQuantity": 4,
+            "maxTicketQuantity": 4,
+            "totalTickets": 4,
+            "totalListings": 1,
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 278.5299987792969
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 278.53,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 278.53,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 278.53,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59651,
+            "sectionName": "Loge 3",
+            "minTicketPrice": 472.20001220703125,
+            "maxTicketPrice": 472.20001220703125,
+            "averageTicketPrice": 472.20001220703125,
+            "minTicketQuantity": 3,
+            "maxTicketQuantity": 3,
+            "totalTickets": 3,
+            "totalListings": 1,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 472.20001220703125
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 472.20,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 472.20,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 472.20,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59835,
+            "sectionName": "Promenade S 24",
+            "minTicketPrice": 277.9599914550781,
+            "maxTicketPrice": 277.9599914550781,
+            "averageTicketPrice": 277.9599914550781,
+            "minTicketQuantity": 4,
+            "maxTicketQuantity": 4,
+            "totalTickets": 4,
+            "totalListings": 1,
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 277.9599914550781
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 277.96,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 277.96,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 277.96,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59657,
+            "sectionName": "Loge 9",
+            "minTicketPrice": 368.5,
+            "maxTicketPrice": 506.3599853515625,
+            "averageTicketPrice": 437.42999267578125,
+            "minTicketQuantity": 4,
+            "maxTicketQuantity": 8,
+            "totalTickets": 12,
+            "totalListings": 2,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 499.46698608398435
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 368.50,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 437.43,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 506.36,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59643,
+            "sectionName": "Floor H",
+            "minTicketPrice": 367.2799987792969,
+            "maxTicketPrice": 545.4000244140625,
+            "averageTicketPrice": 456.3400115966797,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 3,
+            "totalTickets": 4,
+            "totalListings": 2,
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 536.4940231323242
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 367.28,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 456.34,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 545.40,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59846,
+            "sectionName": "Balcony 308",
+            "minTicketPrice": 294.0799865722656,
+            "maxTicketPrice": 294.0799865722656,
+            "averageTicketPrice": 294.0799865722656,
+            "minTicketQuantity": 4,
+            "maxTicketQuantity": 4,
+            "totalTickets": 4,
+            "totalListings": 1,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 294.0799865722656
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 294.08,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 294.08,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 294.08,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59845,
+            "sectionName": "Balcony 307",
+            "minTicketPrice": 245.1300048828125,
+            "maxTicketPrice": 246.49000549316406,
+            "averageTicketPrice": 245.81000518798828,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 2,
+            "totalListings": 2,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 246.42200546264647
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 245.13,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 245.81,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 246.49,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59855,
+            "sectionName": "Balcony 317",
+            "minTicketPrice": 308.7099914550781,
+            "maxTicketPrice": 308.7099914550781,
+            "averageTicketPrice": 308.7099914550781,
+            "minTicketQuantity": 4,
+            "maxTicketQuantity": 4,
+            "totalTickets": 4,
+            "totalListings": 1,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 308.7099914550781
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 308.71,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 308.71,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 308.71,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59873,
+            "sectionName": "Club 115",
+            "minTicketPrice": 245.27999877929688,
+            "maxTicketPrice": 562.47998046875,
+            "averageTicketPrice": 340.1949920654297,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 4,
+            "totalTickets": 7,
+            "totalListings": 4,
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 519.6579833984374
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 245.28,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 340.19,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 562.48,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59636,
+            "sectionName": "Floor A",
+            "minTicketPrice": 429.489990234375,
+            "maxTicketPrice": 1220.06005859375,
+            "averageTicketPrice": 675.702863420759,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 4,
+            "totalTickets": 16,
+            "totalListings": 7,
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 1106.6930358886716
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 429.49,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 675.70,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 1220.06,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59844,
+            "sectionName": "Balcony 306",
+            "minTicketPrice": 295.29998779296875,
+            "maxTicketPrice": 307.5,
+            "averageTicketPrice": 301.3999938964844,
+            "minTicketQuantity": 6,
+            "maxTicketQuantity": 6,
+            "totalTickets": 12,
+            "totalListings": 2,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 306.88999938964844
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 295.30,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 301.40,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 307.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59642,
+            "sectionName": "Floor G",
+            "minTicketPrice": 375.3900146484375,
+            "maxTicketPrice": 375.3900146484375,
+            "averageTicketPrice": 375.3900146484375,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 1,
+            "totalListings": 1,
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 375.3900146484375
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 375.39,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 375.39,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 375.39,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59825,
+            "sectionName": "Promenade S 14",
+            "minTicketPrice": 295.29998779296875,
+            "maxTicketPrice": 295.29998779296875,
+            "averageTicketPrice": 295.29998779296875,
+            "minTicketQuantity": 4,
+            "maxTicketQuantity": 4,
+            "totalTickets": 4,
+            "totalListings": 1,
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 295.29998779296875
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 295.30,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 295.30,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 295.30,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59659,
+            "sectionName": "Loge 11",
+            "minTicketPrice": 283.2200012207031,
+            "maxTicketPrice": 6285.5,
+            "averageTicketPrice": 2167.1399993896484,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 29,
+            "totalListings": 10,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 6285.5
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 283.22,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 2167.14,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 6285.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59875,
+            "sectionName": "Club 139",
+            "minTicketPrice": 277.0,
+            "maxTicketPrice": 328.239990234375,
+            "averageTicketPrice": 302.6199951171875,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 2,
+            "totalListings": 2,
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 325.67799072265626
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 277.00,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 302.62,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 328.24,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59878,
+            "sectionName": "Club 145",
+            "minTicketPrice": 407.8500061035156,
+            "maxTicketPrice": 521.0,
+            "averageTicketPrice": 463.8666687011719,
+            "minTicketQuantity": 4,
+            "maxTicketQuantity": 4,
+            "totalTickets": 12,
+            "totalListings": 3,
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 515.1750000000001
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 407.85,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 463.87,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 521.00,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59650,
+            "sectionName": "Loge 2",
+            "minTicketPrice": 330.67999267578125,
+            "maxTicketPrice": 6285.5,
+            "averageTicketPrice": 1727.9788886176216,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 4,
+            "totalTickets": 23,
+            "totalListings": 9,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 6285.5
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 330.68,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 1727.98,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 6285.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59641,
+            "sectionName": "Floor F",
+            "minTicketPrice": 368.489990234375,
+            "maxTicketPrice": 600.0999755859375,
+            "averageTicketPrice": 466.54285103934154,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 7,
+            "totalListings": 7,
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 600.0999755859375
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 368.49,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 466.54,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 600.10,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59653,
+            "sectionName": "Loge 5",
+            "minTicketPrice": 340.44000244140625,
+            "maxTicketPrice": 340.44000244140625,
+            "averageTicketPrice": 340.44000244140625,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 1,
+            "totalListings": 1,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 340.44000244140625
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 340.44,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 340.44,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 340.44,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59685,
+            "sectionName": "Suite Level V 507",
+            "minTicketPrice": 444.45001220703125,
+            "maxTicketPrice": 444.45001220703125,
+            "averageTicketPrice": 444.45001220703125,
+            "minTicketQuantity": 3,
+            "maxTicketQuantity": 3,
+            "totalTickets": 3,
+            "totalListings": 1,
+            "zoneId": 17478,
+            "zoneName": "Suite Level V",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 444.45001220703125
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 444.45,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 444.45,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 444.45,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59852,
+            "sectionName": "Balcony 314",
+            "minTicketPrice": 386.79998779296875,
+            "maxTicketPrice": 386.79998779296875,
+            "averageTicketPrice": 386.79998779296875,
+            "minTicketQuantity": 4,
+            "maxTicketQuantity": 4,
+            "totalTickets": 4,
+            "totalListings": 1,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 386.79998779296875
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 386.80,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 386.80,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 386.80,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59639,
+            "sectionName": "Floor D",
+            "minTicketPrice": 367.95001220703125,
+            "maxTicketPrice": 582.0,
+            "averageTicketPrice": 462.9100112915039,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 9,
+            "totalListings": 4,
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 571.9350036621094
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 367.95,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 462.91,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 582.00,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59841,
+            "sectionName": "Balcony 303",
+            "minTicketPrice": 218.44000244140625,
+            "maxTicketPrice": 612.5,
+            "averageTicketPrice": 415.4700012207031,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 2,
+            "totalListings": 2,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 592.7970001220704
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 218.44,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 415.47,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 612.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59842,
+            "sectionName": "Balcony 304",
+            "minTicketPrice": 242.1199951171875,
+            "maxTicketPrice": 403.8800048828125,
+            "averageTicketPrice": 317.8333333333333,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 13,
+            "totalListings": 3,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 394.24200439453125
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 242.12,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 317.83,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 403.88,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59851,
+            "sectionName": "Balcony 313",
+            "minTicketPrice": 279.44000244140625,
+            "maxTicketPrice": 313.6000061035156,
+            "averageTicketPrice": 294.9949951171875,
+            "minTicketQuantity": 3,
+            "maxTicketQuantity": 6,
+            "totalTickets": 16,
+            "totalListings": 4,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 310.6720031738281
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 279.44,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 294.99,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 313.60,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59638,
+            "sectionName": "Floor C",
+            "minTicketPrice": 307.5,
+            "maxTicketPrice": 6285.5,
+            "averageTicketPrice": 1267.4711168077256,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 4,
+            "totalTickets": 15,
+            "totalListings": 9,
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 4138.299999999998
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 1267.47,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 6285.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59640,
+            "sectionName": "Floor E",
+            "minTicketPrice": 524.02001953125,
+            "maxTicketPrice": 524.02001953125,
+            "averageTicketPrice": 524.02001953125,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 1,
+            "totalListings": 1,
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 524.02001953125
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 524.02,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 524.02,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 524.02,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59853,
+            "sectionName": "Balcony 315",
+            "minTicketPrice": 234.2899932861328,
+            "maxTicketPrice": 490.5,
+            "averageTicketPrice": 344.09666442871094,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 4,
+            "totalTickets": 9,
+            "totalListings": 3,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 472.19999999999993
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 234.29,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 344.10,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 490.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59843,
+            "sectionName": "Balcony305",
+            "minTicketPrice": 289.20001220703125,
+            "maxTicketPrice": 289.20001220703125,
+            "averageTicketPrice": 289.20001220703125,
+            "minTicketQuantity": 6,
+            "maxTicketQuantity": 6,
+            "totalTickets": 6,
+            "totalListings": 1,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 289.20001220703125
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 289.20,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 289.20,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 289.20,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59662,
+            "sectionName": "Loge 14",
+            "minTicketPrice": 447.7900085449219,
+            "maxTicketPrice": 975.1500244140625,
+            "averageTicketPrice": 614.250010172526,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 8,
+            "totalTickets": 21,
+            "totalListings": 9,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 975.1500244140625
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 447.79,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 614.25,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 975.15,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59637,
+            "sectionName": "Floor B",
+            "minTicketPrice": 737.25,
+            "maxTicketPrice": 2436.39990234375,
+            "averageTicketPrice": 1415.993994140625,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 22,
+            "totalListings": 5,
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 2241.93193359375
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 737.25,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 1415.99,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 2436.40,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59854,
+            "sectionName": "Balcony 316",
+            "minTicketPrice": 295.2900085449219,
+            "maxTicketPrice": 417.2900085449219,
+            "averageTicketPrice": 356.2900085449219,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 7,
+            "totalListings": 2,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 411.19000854492185
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 295.29,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 356.29,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 417.29,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59658,
+            "sectionName": "Loge 10",
+            "minTicketPrice": 291.6400146484375,
+            "maxTicketPrice": 429.5,
+            "averageTicketPrice": 360.57000732421875,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 3,
+            "totalTickets": 4,
+            "totalListings": 2,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 422.60700073242185
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 291.64,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 360.57,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 429.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59867,
+            "sectionName": "Balcony 329",
+            "minTicketPrice": 290.4100036621094,
+            "maxTicketPrice": 290.4100036621094,
+            "averageTicketPrice": 290.4100036621094,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 1,
+            "totalListings": 1,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 290.4100036621094
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 290.41,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 290.41,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 290.41,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59870,
+            "sectionName": "Club 109",
+            "minTicketPrice": 405.1000061035156,
+            "maxTicketPrice": 606.4000244140625,
+            "averageTicketPrice": 524.0500106811523,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 12,
+            "totalTickets": 19,
+            "totalListings": 4,
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 598.1650207519531
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 405.10,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 524.05,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 606.40,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59654,
+            "sectionName": "Loge 6",
+            "minTicketPrice": 273.6099853515625,
+            "maxTicketPrice": 392.8999938964844,
+            "averageTicketPrice": 334.09749603271484,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 3,
+            "totalTickets": 6,
+            "totalListings": 4,
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 385.5784942626953
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 273.61,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 334.10,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 392.90,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59868,
+            "sectionName": "Balcony 330",
+            "minTicketPrice": 403.8800048828125,
+            "maxTicketPrice": 403.8800048828125,
+            "averageTicketPrice": 403.8800048828125,
+            "minTicketQuantity": 3,
+            "maxTicketQuantity": 3,
+            "totalTickets": 3,
+            "totalListings": 1,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 403.8800048828125
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 403.88,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 403.88,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 403.88,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59847,
+            "sectionName": "Balcony 309",
+            "minTicketPrice": 194.02999877929688,
+            "maxTicketPrice": 208.67999267578125,
+            "averageTicketPrice": 201.35499572753906,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 2,
+            "totalListings": 2,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 207.947492980957
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 194.03,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 201.35,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 208.68,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59856,
+            "sectionName": "Balcony 318",
+            "minTicketPrice": 245.27999877929688,
+            "maxTicketPrice": 283.0899963378906,
+            "averageTicketPrice": 264.18499755859375,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 1,
+            "totalTickets": 2,
+            "totalListings": 2,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 281.1994964599609
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 245.28,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 264.18,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 283.09,
+                "currency": "USD"
+            }
+        },
+        {
+            "sectionId": 59848,
+            "sectionName": "Balcony 310",
+            "minTicketPrice": 236.74000549316406,
+            "maxTicketPrice": 289.54998779296875,
+            "averageTicketPrice": 263.1449966430664,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 4,
+            "totalTickets": 5,
+            "totalListings": 2,
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "isGA": 0,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 286.9094886779785
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 236.74,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 263.14,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 289.55,
+                "currency": "USD"
+            }
+        }
+    ],
+    "zone_stats": [
+        {
+            "zoneId": 17470,
+            "zoneName": "Floor",
+            "minTicketPrice": 307.5,
+            "maxTicketPrice": 6285.5,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 92,
+            "totalListings": 41,
+            "averageTicketPrice": 785.222441882622,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 1464.06005859375
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 307.50,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 785.22,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 6285.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "zoneId": 17472,
+            "zoneName": "Loge",
+            "minTicketPrice": 246.5,
+            "maxTicketPrice": 6285.5,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 8,
+            "totalTickets": 158,
+            "totalListings": 72,
+            "averageTicketPrice": 919.7615288628472,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 6285.5
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 246.50,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 919.76,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 6285.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "zoneId": 17478,
+            "zoneName": "Suite Level V",
+            "minTicketPrice": 444.45001220703125,
+            "maxTicketPrice": 521.0,
+            "minTicketQuantity": 3,
+            "maxTicketQuantity": 12,
+            "totalTickets": 25,
+            "totalListings": 3,
+            "averageTicketPrice": 475.15000406901044,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 514.9
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 444.45,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 475.15,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 521.00,
+                "currency": "USD"
+            }
+        },
+        {
+            "zoneId": 17474,
+            "zoneName": "Balcony",
+            "minTicketPrice": 194.02999877929688,
+            "maxTicketPrice": 612.5,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 6,
+            "totalTickets": 106,
+            "totalListings": 35,
+            "averageTicketPrice": 301.3479989188058,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 439.2530059814451
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 194.03,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 301.35,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 612.50,
+                "currency": "USD"
+            }
+        },
+        {
+            "zoneId": 17473,
+            "zoneName": "Club",
+            "minTicketPrice": 245.27999877929688,
+            "maxTicketPrice": 643.0,
+            "minTicketQuantity": 1,
+            "maxTicketQuantity": 12,
+            "totalTickets": 61,
+            "totalListings": 20,
+            "averageTicketPrice": 432.50149993896486,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 608.2300231933593
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 245.28,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 432.50,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 643.00,
+                "currency": "USD"
+            }
+        },
+        {
+            "zoneId": 17477,
+            "zoneName": "Promenade",
+            "minTicketPrice": 277.9599914550781,
+            "maxTicketPrice": 295.29998779296875,
+            "minTicketQuantity": 3,
+            "maxTicketQuantity": 4,
+            "totalTickets": 19,
+            "totalListings": 5,
+            "averageTicketPrice": 284.8179992675781,
+            "percentiles": [
+                {
+                    "name": 95.0,
+                    "value": 294.0799926757812
+                }
+            ],
+            "minTicketPriceWithCurrency": {
+                "amount": 277.96,
+                "currency": "USD"
+            },
+            "averageTicketPriceWithCurrency": {
+                "amount": 284.82,
+                "currency": "USD"
+            },
+            "maxTicketPriceWithCurrency": {
+                "amount": 295.30,
+                "currency": "USD"
+            }
+        }
+    ],
+    "pricingSummary": {
+        "name": "ticketPrice",
+        "minTicketPrice": 194.02999877929688,
+        "averageTicketPrice": 684.4528418454257,
+        "maxTicketPrice": 6285.5,
+        "totalListings": 176,
+        "minTicketPriceWithCurrency": {
+            "amount": 194.03,
+            "currency": "USD"
+        },
+        "averageTicketPriceWithCurrency": {
+            "amount": 684.45,
+            "currency": "USD"
+        },
+        "maxTicketPriceWithCurrency": {
+            "amount": 6285.50,
+            "currency": "USD"
+        },
+        "percentiles": [
+            {
+                "name": 95.0,
+                "value": 1463.8350219726562
+            }
+        ]
+    },
+    "listingAttributeCategorySummary": [],
+    "deliveryTypeSummary": [],
+    "start": 0,
+    "rows": 100
+}

@@ -3,6 +3,8 @@ import datetime
 import gzip
 import json
 
+import stubhubz.dynamodb
+
 # The business logic of StubHubz
 class StubHubz:
     def __init__(self, stubhub, ticketmaster, dynamo, region, debug):
@@ -99,10 +101,10 @@ class StubHubz:
             return False
         if self._date_check(event.date_time, 120):
             print(' Skipping event because it has expired. Event was scheduled for {}'.format(event.date_time))
-            event.update({
-                    'last_scraped_date_time': {'action': 'put', 'value': datetime.datetime.utcnow()},
-                    'scrape_status': {'action': 'put', 'value': 'Inactive'}
-            })
+            event.update(actions=[
+                stubhubz.dynamodb.Event.last_scraped_date_time.set(datetime.datetime.utcnow()),
+                stubhubz.dynamodb.Event.scrape_status.set('Inactive')
+            ])
             return False
         zone_prices = [] # array of avg_price, max_ticket_quantity, min_price, total_listings, total_tickets, zone_id, zone_name
         listings_by_zone = self.get_stubhub_listing(event.id)
@@ -126,7 +128,9 @@ class StubHubz:
             zone_prices.append(self._build_zone_price(zone_listings['zone_id'], zone_name, min_price, total_price/tickets_seen, None,
                     zone_listings['totalTickets'], zone_listings['totalListings'], avg_price_accurate))
         self.dynamo.add_price_history(event.id, datetime.datetime.utcnow(), zone_prices)
-        event.update({'last_scraped_date_time': {'action': 'put', 'value': datetime.datetime.utcnow()}})
+        event.update(actions=[
+            stubhubz.dynamodb.Event.last_scraped_date_time.set(datetime.datetime.utcnow())
+        ])
         print(' Scraped event')
         return True
 

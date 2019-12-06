@@ -1,0 +1,72 @@
+{
+    "id": 9852350,
+    "title": "Ed Sheeran Boston Tickets - Ed Sheeran 09/23/2017 TD Garden Tickets on StubHub!",
+    "description": "Ed Sheeran Tickets",
+    "timezone": "EST",
+    "currencyCode": "USD",
+    "eventUrl": "ed-sheeran-boston-td-garden-9-23-2017-9852350",
+    "bobId": 1,
+    "eventDateUTC": "2017-09-23T23:30:00+0000",
+    "eventDateLocal": "2017-09-23T19:30:00-04:00",
+    "hideEventDate": false,
+    "hideEventTime": false,
+    "integratedEventInd": false,
+    "status": {
+        "statusId": 2
+    },
+    "venue": {
+        "id": 1621,
+        "name": "TD Garden",
+        "venueUrl": "td-banknorth-garden-tickets/",
+        "address1": "100 Legends Way",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02114",
+        "country": "US",
+        "configurationId": "3301"
+    },
+    "performers": {
+        "primaryPerformer": {
+            "id": 700045,
+            "name": "Ed Sheeran"
+        }
+    },
+    "categories": {
+        "primaryCategory": {
+            "id": 1,
+            "name": "Concert tickets"
+        }
+    },
+    "groupings": {
+        "primaryGrouping": {
+            "id": 63911,
+            "name": "Artists D - G"
+        }
+    },
+    "ancestors": {
+        "categories": [
+            {
+                "id": 1
+            }
+        ],
+        "performers": [
+            {
+                "id": 700045
+            }
+        ],
+        "groupings": [
+            {
+                "id": 63911
+            }
+        ]
+    },
+    "eventMeta": {
+        "seoDescription": "Ed Sheeran at TD Garden",
+        "primaryName": "TD Garden",
+        "secondaryName": "Ed Sheeran",
+        "primaryAct": "Ed Sheeran",
+        "seoTitle": "Ed Sheeran TD Garden Boston Tickets - 2017-9-23",
+        "keywords": "Ed Sheeran, , Ed Sheeran TD Garden, Ed Sheeran Boston,Ed Sheeran Concert, buy, sell, ticket, tickets",
+        "locale": "en_US"
+    }
+}

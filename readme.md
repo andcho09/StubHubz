@@ -63,7 +63,7 @@ The StubHubz has several workflows:
     1. Install [Python 3](https://www.python.org/downloads/)
     1. Install Python dependencies `> pip install -r requirements.txt`
     1. (Optional) Install [Local DynamoDB](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html) instance (note this requires  plus)
-    1. Clone this git repository `> git clone git@bitbucket.org:andcho09/stubhubz.git` (assuming you have access to the repository)
+    1. Clone this git repository `> git clone git@github.com:andcho09/StubHubz.git` (assuming you have access to the repository)
     1. Sign up for [StubHub API](https://developer.stubhub.com/store/) 
         1. generate an API key for `Production`
         1. subscribe your application to all of the APIs
